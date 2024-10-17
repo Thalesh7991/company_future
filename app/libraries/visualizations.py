@@ -1,5 +1,6 @@
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 
 def sales_by_month(df):
     # Agrupar por ano e mês
@@ -20,6 +21,29 @@ def sales_by_country(df):
     fig_country = px.bar(df_country, x='ShipCountry', y='TotalAmount', title="Top 10 Países com Maior Faturamento",labels={'ShipCountry': 'País', 'TotalAmount': 'Faturamento Total'})
     return fig_country
 
+def sales_cumulatives(df):
+    # Agrupar por Ano e Mês e calcular o faturamento mensal
+    df_grouped = df.groupby(['Year', 'Month'])['TotalAmount'].sum().reset_index()
+
+    # Ordenar por Ano e Mês para facilitar o cálculo acumulado
+    df_grouped = df_grouped.sort_values(by=['Year', 'Month'])
+
+    # Calcular o faturamento acumulado para cada ano
+    df_grouped['CumulativeSales'] = df_grouped.groupby('Year')['TotalAmount'].cumsum()
+
+    # Criar o gráfico de linhas com Plotly Express
+    fig = px.line(
+        df_grouped, 
+        x='Month', 
+        y='CumulativeSales', 
+        color='Year', 
+        title="Faturamento Acumulado por Ano",
+        labels={'CumulativeSales': 'Faturamento Acumulado', 'Month': 'Mês'}
+    )
+    return fig
+    
+
+
 def sales_by_status(df):
     # Criar o gráfico de pizza
     fig = px.pie(df, 
@@ -27,4 +51,15 @@ def sales_by_status(df):
                 names='OrderStatus', 
                 title='Distribuição de Vendas por Status',
                 hole=0.3)  # Gráfico de donut
+    return fig
+
+def sales_by_method(df):
+    df_count = df[['PaymentMethod', 'Unnamed: 0']].groupby('PaymentMethod').count().reset_index()
+
+    # Gráfico horizontal por método de pagamento
+    fig = go.Figure(go.Bar(
+                x=df['Unnamed: 0'].to_list(),
+                y=df['PaymentMethod'].to_list(),
+                orientation='h'))
+    
     return fig
