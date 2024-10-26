@@ -21,7 +21,7 @@ st.set_page_config(page_title="Sales Dashboard", page_icon=":bar_chart:", layout
 
 
 # Carregar dados
-df = pd.read_csv('data/order.csv')
+df = pd.read_csv('../data/order.csv')
 df = preprocess_sales(df)
 
 # Filtros no sidebar
