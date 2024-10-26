@@ -19,9 +19,22 @@ from streamlit_folium import folium_static
 st.set_page_config(page_title="Sales Dashboard", page_icon=":bar_chart:", layout="wide")
 
 
+current_directory = os.getcwd()
+st.write(f"Current directory: {current_directory}")
+
+# Caminho absoluto para garantir a localização correta do arquivo
+file_path = os.path.join(current_directory, 'data', 'order.csv')
+
+# Verifica se o arquivo existe
+if os.path.exists(file_path):
+    df = pd.read_csv(file_path)
+    st.write(df)
+else:
+    st.error(f"Arquivo não encontrado: {file_path}")
+
 
 # Carregar dados
-df = pd.read_csv('order.csv')
+# df = pd.read_csv('order.csv')
 df = preprocess_sales(df)
 
 # Filtros no sidebar
