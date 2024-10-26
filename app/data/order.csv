@@ -1,0 +1,1001 @@
+,OrderID,CustomerID,OrderDate,OrderStatus,ShippedDate,ShipAddress,ShipCountry,ShippingFee,PaymentMethod,TotalAmount
+0,1,1,2012-02-16,Pendente,2021-07-10,30249 Donald Way,China,63.95,Pago na Entrega,1568.28
+1,2,2,2012-02-06,Em Processamento,2014-06-23,97 David Street,Greece,75.62,Pago na Entrega,4654.31
+2,3,3,2013-01-02,Pendente,2022-10-22,2024 Myrtle Parkway,Poland,453.17,PayPal,5810.01
+3,4,4,2013-02-28,Pendente,2011-11-22,75158 Merry Plaza,Japan,883.25,PayPal,4388.28
+4,5,5,2014-08-28,Entregue,2017-08-16,875 Nancy Hill,Portugal,881.14,Cartão de Crédito,2972.23
+5,6,6,2022-05-25,Entregue,2012-03-29,7556 Chinook Street,China,49.42,PayPal,9545.46
+6,7,7,2020-10-19,Em Processamento,2022-09-06,38 Brown Parkway,Czech Republic,193.55,Pago na Entrega,4187.61
+7,8,8,2021-06-27,Entregue,2018-08-28,601 Bluejay Alley,China,9.25,PayPal,5088.06
+8,9,9,2010-02-18,Em Processamento,2013-09-25,69 Dunning Terrace,China,568.47,Pago na Entrega,5967.51
+9,10,10,2019-05-05,Pendente,2015-06-09,25 Rigney Drive,Colombia,73.32,Cartão de Crédito,2169.93
+10,11,11,2010-05-23,Enviado ao Cliente,2020-07-17,118 Gateway Crossing,Vietnam,870.05,Pago na Entrega,1535.43
+11,12,12,2010-05-21,Enviado ao Cliente,2017-07-09,33 Fisk Terrace,Finland,788.77,Pago na Entrega,9779.08
+12,13,13,2010-03-14,Em Processamento,2013-03-07,84 Hazelcrest Circle,China,688.15,Cartão de Crédito,4142.2
+13,14,14,2011-09-23,Entregue,2020-07-09,395 Bashford Park,Canada,188.04,Pago na Entrega,1697.04
+14,15,15,2015-10-02,Enviado ao Cliente,2014-01-27,3 Dryden Avenue,Indonesia,543.59,Pago na Entrega,9065.41
+15,16,16,2014-06-04,Entregue,2020-01-31,996 Mcguire Plaza,China,123.05,PayPal,6803.37
+16,17,17,2012-06-02,Pendente,2018-09-16,8512 Porter Crossing,Philippines,724.24,PayPal,7671.62
+17,18,18,2013-12-26,Em Processamento,2017-04-26,96770 Magdeline Parkway,Tanzania,829.31,Pago na Entrega,3333.63
+18,19,19,2016-03-22,Em Processamento,2012-03-08,5141 Menomonie Plaza,Russia,255.99,PayPal,4700.72
+19,20,20,2015-10-08,Enviado ao Cliente,2012-12-07,9522 Sycamore Pass,Serbia,404.78,Cartão de Crédito,6229.48
+20,21,21,2018-01-22,Enviado ao Cliente,2022-04-04,3 Redwing Place,China,315.84,Cartão de Crédito,989.0
+21,22,22,2014-03-16,Em Processamento,2019-08-23,6 Northview Crossing,Nigeria,440.09,PayPal,3591.8
+22,23,23,2019-07-06,Pendente,2017-07-08,94 Ludington Street,Poland,967.4,Cartão de Crédito,4525.91
+23,24,24,2012-10-17,Enviado ao Cliente,2013-10-27,3 Buell Circle,Russia,454.23,PayPal,9326.13
+24,25,25,2011-05-19,Entregue,2017-12-12,34 Schlimgen Trail,Uruguay,819.21,Pago na Entrega,8682.52
+25,26,26,2011-08-03,Entregue,2010-05-20,75201 Service Center,United States,427.56,Pago na Entrega,4917.79
+26,27,27,2012-03-12,Pendente,2013-11-08,1 Stone Corner Crossing,Indonesia,998.28,Pago na Entrega,3038.36
+27,28,28,2017-10-10,Pendente,2020-02-15,52 Goodland Road,Poland,148.46,PayPal,7419.82
+28,29,29,2020-02-18,Enviado ao Cliente,2019-07-27,3411 Lindbergh Place,China,787.66,Cartão de Crédito,1144.92
+29,30,30,2020-04-24,Enviado ao Cliente,2020-11-21,765 Schmedeman Place,Ukraine,805.64,Pago na Entrega,5279.88
+30,31,31,2010-02-08,Enviado ao Cliente,2012-08-03,87 Meadow Valley Park,Brazil,355.11,Cartão de Crédito,2263.59
+31,32,32,2015-04-13,Entregue,2017-04-11,5511 Pine View Way,Mexico,27.3,Cartão de Crédito,1295.3
+32,33,33,2014-05-28,Pendente,2011-02-15,74323 Texas Pass,Russia,885.15,PayPal,9184.8
+33,34,34,2012-04-09,Enviado ao Cliente,2019-11-04,20437 Novick Street,Indonesia,880.89,Pago na Entrega,5474.66
+34,35,35,2020-11-04,Enviado ao Cliente,2010-10-01,1000 Sunnyside Trail,Kazakhstan,974.29,PayPal,9216.4
+35,36,36,2014-10-14,Enviado ao Cliente,2010-01-29,759 Pond Hill,China,400.2,PayPal,1728.88
+36,37,37,2012-11-12,Pendente,2016-01-30,874 Del Sol Trail,Kenya,581.57,Cartão de Crédito,488.19
+37,38,38,2018-04-18,Em Processamento,2010-02-19,0 Pennsylvania Drive,Luxembourg,797.71,PayPal,9160.12
+38,39,39,2013-03-17,Pendente,2021-10-17,6 Helena Point,Peru,592.96,Pago na Entrega,9375.53
+39,40,40,2016-08-07,Em Processamento,2022-10-11,6452 Golf View Circle,Russia,316.53,Cartão de Crédito,2933.27
+40,41,41,2018-01-08,Enviado ao Cliente,2011-12-19,3369 Oriole Avenue,United States,646.73,Cartão de Crédito,3421.8
+41,42,42,2014-04-09,Enviado ao Cliente,2019-11-27,4347 Esch Center,Mongolia,173.21,PayPal,1160.54
+42,43,43,2017-07-10,Em Processamento,2022-03-03,3 Center Street,Germany,183.0,Cartão de Crédito,2338.72
+43,44,44,2016-04-15,Enviado ao Cliente,2015-11-07,558 Tomscot Hill,China,188.77,Pago na Entrega,8999.77
+44,45,45,2015-05-20,Enviado ao Cliente,2019-01-02,2186 Welch Hill,Russia,828.46,Cartão de Crédito,2697.73
+45,46,46,2016-08-04,Em Processamento,2014-04-21,916 Prairieview Lane,Estonia,729.65,Cartão de Crédito,6709.28
+46,47,47,2012-07-31,Enviado ao Cliente,2020-03-13,44055 Village Street,Israel,758.57,Pago na Entrega,3062.94
+47,48,48,2017-10-11,Pendente,2018-11-07,72206 Mariners Cove Court,Russia,371.44,PayPal,7633.27
+48,49,49,2016-12-06,Em Processamento,2011-08-22,17430 Springview Place,South Africa,176.42,Pago na Entrega,6305.1
+49,50,50,2022-01-28,Entregue,2010-02-01,08740 Buell Alley,Philippines,962.34,PayPal,3791.3
+50,51,51,2019-07-14,Enviado ao Cliente,2021-06-29,42 Clarendon Hill,Portugal,213.77,PayPal,1382.72
+51,52,52,2022-08-27,Entregue,2018-10-21,333 Fairview Pass,Brazil,286.02,Cartão de Crédito,3987.52
+52,53,53,2020-03-17,Pendente,2020-08-01,8 Independence Trail,Philippines,876.77,PayPal,9274.74
+53,54,54,2019-03-01,Pendente,2022-01-04,854 Waxwing Park,China,759.24,PayPal,7197.38
+54,55,55,2017-05-02,Entregue,2022-12-19,5 Forest Dale Lane,China,577.97,PayPal,4348.98
+55,56,56,2021-07-11,Pendente,2022-07-31,131 Mesta Circle,China,438.33,PayPal,6342.25
+56,57,57,2014-09-08,Enviado ao Cliente,2021-04-21,211 Quincy Circle,Russia,123.87,Cartão de Crédito,1894.96
+57,58,58,2017-06-26,Entregue,2011-11-23,7 Columbus Trail,China,471.4,Cartão de Crédito,3499.0
+58,59,59,2011-09-12,Entregue,2020-09-07,6403 Dakota Court,Indonesia,894.52,Pago na Entrega,9686.52
+59,60,60,2014-04-06,Pendente,2014-12-23,363 Stang Parkway,United States,603.26,PayPal,5049.29
+60,61,61,2018-06-23,Pendente,2016-02-02,346 Michigan Lane,Canada,557.83,Cartão de Crédito,164.74
+61,62,62,2016-03-25,Pendente,2014-01-03,18654 Kingsford Terrace,Brazil,637.24,Cartão de Crédito,6413.25
+62,63,63,2010-05-13,Pendente,2021-01-11,58 Browning Street,China,939.12,Pago na Entrega,9782.07
+63,64,64,2015-04-24,Enviado ao Cliente,2012-01-06,9 Stang Alley,Indonesia,539.43,PayPal,5391.9
+64,65,65,2021-10-29,Pendente,2015-12-25,80941 Center Road,Brazil,828.94,Pago na Entrega,1704.1
+65,66,66,2018-05-16,Entregue,2011-04-17,92 Schurz Plaza,Serbia,495.39,PayPal,5012.39
+66,67,67,2019-11-29,Pendente,2019-12-21,93968 Beilfuss Lane,Sweden,308.46,Cartão de Crédito,3770.37
+67,68,68,2018-09-15,Enviado ao Cliente,2010-02-09,55 Merrick Plaza,Philippines,959.38,PayPal,8402.69
+68,69,69,2016-12-13,Em Processamento,2012-10-30,7490 Mosinee Pass,China,327.15,Pago na Entrega,9959.45
+69,70,70,2011-04-17,Enviado ao Cliente,2019-06-07,74 Kipling Park,Thailand,675.5,Pago na Entrega,9791.38
+70,71,71,2013-04-03,Em Processamento,2011-10-15,35350 6th Point,Bulgaria,472.33,Cartão de Crédito,1423.21
+71,72,72,2010-09-18,Enviado ao Cliente,2016-08-30,5927 Pleasure Way,China,674.57,Cartão de Crédito,200.13
+72,73,73,2011-03-13,Pendente,2012-11-15,60 Hagan Place,United States,492.38,Cartão de Crédito,1147.25
+73,74,74,2016-04-02,Entregue,2014-12-27,7 Dottie Hill,Nigeria,533.55,PayPal,2921.84
+74,75,75,2011-12-20,Entregue,2016-03-10,30614 Gateway Alley,Poland,996.23,Pago na Entrega,5269.07
+75,76,76,2011-10-12,Em Processamento,2018-03-29,27 Pierstorff Point,Indonesia,266.18,Cartão de Crédito,8592.27
+76,77,77,2019-01-21,Enviado ao Cliente,2020-12-23,39196 Elmside Circle,Philippines,728.92,Pago na Entrega,5948.55
+77,78,78,2015-05-22,Entregue,2012-04-20,421 Fordem Junction,Pakistan,552.04,Pago na Entrega,7680.88
+78,79,79,2022-01-01,Em Processamento,2020-02-27,49 Jenifer Terrace,Ukraine,313.02,Pago na Entrega,3679.29
+79,80,80,2012-08-26,Entregue,2017-05-23,638 Lunder Junction,South Africa,264.16,Pago na Entrega,895.81
+80,81,81,2016-03-10,Entregue,2010-07-08,6 Montana Lane,China,532.45,Pago na Entrega,7923.93
+81,82,82,2016-12-17,Em Processamento,2016-10-25,0 Bunting Center,United States,553.45,Cartão de Crédito,747.03
+82,83,83,2012-07-24,Entregue,2022-03-02,28 Sachtjen Alley,Ukraine,807.82,Cartão de Crédito,1114.8
+83,84,84,2012-07-22,Entregue,2011-08-13,8661 Green Ridge Place,Poland,818.09,Pago na Entrega,1140.64
+84,85,85,2012-12-14,Enviado ao Cliente,2022-11-06,925 Daystar Plaza,Colombia,302.17,Cartão de Crédito,9818.05
+85,86,86,2016-07-25,Pendente,2018-07-10,4427 Vahlen Junction,China,488.79,PayPal,3812.08
+86,87,87,2022-04-10,Enviado ao Cliente,2010-01-20,8051 Brown Avenue,China,875.76,Pago na Entrega,9080.69
+87,88,88,2020-07-30,Pendente,2019-07-13,26 Mockingbird Plaza,Saudi Arabia,336.69,Pago na Entrega,9959.64
+88,89,89,2014-12-22,Entregue,2016-12-13,38891 Golf Course Avenue,Finland,433.87,Cartão de Crédito,7318.67
+89,90,90,2013-04-20,Enviado ao Cliente,2013-01-14,88 Helena Center,Macedonia,590.36,PayPal,8445.51
+90,91,91,2011-12-18,Entregue,2020-01-15,00287 Johnson Street,China,202.48,Pago na Entrega,588.05
+91,92,92,2014-11-10,Enviado ao Cliente,2012-09-23,31 Di Loreto Junction,China,881.99,PayPal,4776.41
+92,93,93,2016-05-19,Pendente,2010-09-26,209 Portage Crossing,China,519.5,PayPal,5881.89
+93,94,94,2019-01-29,Pendente,2011-11-25,89668 Russell Plaza,Ukraine,395.08,Pago na Entrega,4926.54
+94,95,95,2010-05-05,Pendente,2021-08-10,09805 Dakota Hill,Indonesia,683.77,Pago na Entrega,7719.16
+95,96,96,2010-04-30,Entregue,2014-06-26,04 Harper Crossing,Philippines,360.56,PayPal,1929.7
+96,97,97,2015-06-10,Em Processamento,2022-09-22,87 Debra Drive,Yemen,258.37,Cartão de Crédito,8118.73
+97,98,98,2021-07-17,Enviado ao Cliente,2013-08-14,450 Jana Lane,Indonesia,402.86,Cartão de Crédito,7711.82
+98,99,99,2013-05-14,Entregue,2018-05-07,81756 Daystar Place,China,757.66,Cartão de Crédito,9086.97
+99,100,100,2019-02-22,Em Processamento,2017-06-15,76939 Calypso Place,Poland,36.17,Pago na Entrega,1940.16
+100,101,101,2013-07-13,Enviado ao Cliente,2018-08-09,99 Vahlen Circle,Philippines,144.31,Cartão de Crédito,4188.78
+101,102,102,2019-04-25,Pendente,2017-01-06,8461 Elgar Road,Peru,597.45,Cartão de Crédito,3400.09
+102,103,103,2015-05-14,Em Processamento,2017-07-22,2354 Clyde Gallagher Lane,Venezuela,976.59,PayPal,4724.61
+103,104,104,2011-08-15,Entregue,2016-06-24,6348 Troy Pass,Brazil,418.64,Pago na Entrega,4462.87
+104,105,105,2021-09-18,Entregue,2019-08-26,8 Service Drive,China,450.68,Pago na Entrega,4647.18
+105,106,106,2019-06-28,Pendente,2018-01-20,180 Hayes Park,China,190.56,Cartão de Crédito,4827.18
+106,107,107,2022-01-16,Em Processamento,2013-12-23,5 Luster Avenue,Syria,413.76,PayPal,5058.77
+107,108,108,2011-12-12,Enviado ao Cliente,2014-05-10,62 Columbus Court,Belarus,170.04,PayPal,7083.84
+108,109,109,2016-03-07,Pendente,2022-01-28,7 Merry Terrace,Philippines,195.53,PayPal,4984.47
+109,110,110,2013-02-08,Enviado ao Cliente,2011-10-10,4741 Corben Plaza,China,819.38,Pago na Entrega,60.12
+110,111,111,2016-12-24,Entregue,2012-12-25,830 Helena Hill,Mozambique,874.49,PayPal,5978.89
+111,112,112,2013-01-13,Pendente,2015-07-12,0660 Stang Plaza,Ecuador,450.49,Cartão de Crédito,9032.96
+112,113,113,2011-03-21,Entregue,2010-11-22,93907 Sherman Center,Czech Republic,424.07,Pago na Entrega,959.59
+113,114,114,2019-01-08,Entregue,2020-04-25,64 Lillian Park,China,587.48,PayPal,4800.31
+114,115,115,2014-01-21,Em Processamento,2016-06-17,7621 Morning Junction,Germany,819.21,Pago na Entrega,4485.99
+115,116,116,2018-02-22,Enviado ao Cliente,2018-12-01,474 Judy Drive,Colombia,186.73,Pago na Entrega,1301.57
+116,117,117,2011-12-02,Pendente,2013-09-07,795 Iowa Way,Myanmar,324.32,Pago na Entrega,4287.82
+117,118,118,2014-03-02,Pendente,2013-01-05,510 Dawn Crossing,China,397.39,Cartão de Crédito,8877.23
+118,119,119,2010-08-05,Em Processamento,2014-09-12,7211 Welch Center,Poland,208.41,Cartão de Crédito,9062.05
+119,120,120,2022-12-13,Pendente,2018-12-10,3 Starling Junction,Argentina,368.42,Pago na Entrega,5762.53
+120,121,121,2014-11-07,Entregue,2017-06-05,00055 Petterle Trail,Uruguay,940.89,PayPal,2686.23
+121,122,122,2010-07-18,Enviado ao Cliente,2010-06-26,40605 Spenser Park,France,497.2,Pago na Entrega,3512.22
+122,123,123,2022-10-18,Pendente,2010-11-04,1 Ryan Crossing,Thailand,53.76,Cartão de Crédito,5999.85
+123,124,124,2022-12-04,Em Processamento,2019-09-15,31 Michigan Terrace,Afghanistan,330.25,Pago na Entrega,9091.21
+124,125,125,2011-01-22,Em Processamento,2022-06-18,00416 Doe Crossing Place,China,571.87,PayPal,6573.35
+125,126,126,2014-01-11,Entregue,2020-01-10,25 Kim Parkway,Indonesia,937.11,Cartão de Crédito,2233.17
+126,127,127,2010-06-27,Entregue,2022-12-21,2946 Declaration Court,Netherlands,985.68,PayPal,5527.62
+127,128,128,2011-08-09,Pendente,2011-11-30,7 Dayton Place,Micronesia,920.58,Pago na Entrega,7627.43
+128,129,129,2014-08-21,Pendente,2018-02-10,77 Daystar Road,Guinea,961.89,PayPal,8058.59
+129,130,130,2014-10-29,Pendente,2016-07-12,0446 Brentwood Terrace,Portugal,452.71,Pago na Entrega,2345.71
+130,131,131,2011-03-08,Pendente,2018-06-28,859 Karstens Plaza,Argentina,252.34,Cartão de Crédito,723.16
+131,132,132,2017-07-01,Enviado ao Cliente,2011-09-23,5919 Meadow Valley Circle,China,119.96,Cartão de Crédito,7592.37
+132,133,133,2013-10-27,Enviado ao Cliente,2016-07-12,337 Sauthoff Road,China,971.17,Pago na Entrega,8335.65
+133,134,134,2022-05-12,Em Processamento,2012-01-19,69043 Towne Lane,Pakistan,868.7,Cartão de Crédito,2481.9
+134,135,135,2019-07-16,Em Processamento,2017-05-11,0 Portage Pass,Russia,25.04,Cartão de Crédito,7966.85
+135,136,136,2020-06-17,Em Processamento,2018-07-08,143 Sutherland Circle,Portugal,518.33,PayPal,0.84
+136,137,137,2022-02-23,Enviado ao Cliente,2020-12-27,8 Troy Terrace,Ukraine,382.98,PayPal,5464.11
+137,138,138,2022-01-22,Pendente,2010-11-22,356 Manley Drive,Czech Republic,589.48,PayPal,1830.91
+138,139,139,2015-07-29,Em Processamento,2020-04-08,84519 Petterle Terrace,Peru,27.33,Pago na Entrega,2557.32
+139,140,140,2017-02-25,Enviado ao Cliente,2016-07-03,99 Dahle Drive,Bosnia and Herzegovina,866.13,Cartão de Crédito,9342.83
+140,141,141,2010-08-23,Enviado ao Cliente,2021-10-21,43 Mendota Park,Tanzania,274.62,Cartão de Crédito,4765.64
+141,142,142,2013-12-06,Pendente,2016-08-06,8298 Pennsylvania Crossing,United States,466.89,Cartão de Crédito,6519.31
+142,143,143,2016-03-06,Enviado ao Cliente,2016-04-27,8024 Huxley Way,Venezuela,268.22,Cartão de Crédito,7850.63
+143,144,144,2021-10-17,Pendente,2016-05-16,6383 Main Place,China,50.59,Cartão de Crédito,5213.08
+144,145,145,2021-03-04,Em Processamento,2018-03-22,00 Valley Edge Pass,Sri Lanka,919.13,Pago na Entrega,6428.47
+145,146,146,2015-07-08,Entregue,2011-07-15,22 Mesta Trail,Japan,482.75,Pago na Entrega,1794.52
+146,147,147,2021-01-26,Enviado ao Cliente,2020-01-01,0 Gerald Hill,South Africa,125.28,Pago na Entrega,70.49
+147,148,148,2013-08-28,Enviado ao Cliente,2017-07-03,257 Mcguire Court,Dominican Republic,313.26,Cartão de Crédito,3270.76
+148,149,149,2010-10-04,Enviado ao Cliente,2014-04-25,7780 Petterle Crossing,Indonesia,917.65,Pago na Entrega,3608.03
+149,150,150,2011-03-22,Enviado ao Cliente,2015-05-18,34 Columbus Trail,Russia,986.04,Cartão de Crédito,9451.01
+150,151,151,2014-06-18,Pendente,2010-03-26,31971 Starling Park,Libya,257.19,PayPal,3471.66
+151,152,152,2022-08-13,Em Processamento,2022-04-18,92 Myrtle Crossing,Brazil,628.72,Cartão de Crédito,6940.22
+152,153,153,2022-11-02,Em Processamento,2020-05-21,83823 Maywood Way,China,26.94,Cartão de Crédito,6150.12
+153,154,154,2012-07-30,Em Processamento,2021-10-26,5 Ridgeway Terrace,Indonesia,315.0,PayPal,8875.76
+154,155,155,2018-03-03,Enviado ao Cliente,2011-12-13,0716 Little Fleur Center,Philippines,126.23,Pago na Entrega,7972.01
+155,156,156,2018-12-28,Enviado ao Cliente,2010-05-10,4201 Thierer Circle,Russia,782.71,Pago na Entrega,4679.05
+156,157,157,2010-01-06,Em Processamento,2012-06-07,63364 Fallview Place,Colombia,551.55,PayPal,7987.24
+157,158,158,2019-08-09,Pendente,2022-04-06,4 Scoville Plaza,Dominican Republic,73.53,Cartão de Crédito,3642.95
+158,159,159,2014-10-06,Entregue,2018-06-08,8422 Meadow Ridge Lane,Philippines,494.6,Pago na Entrega,7114.49
+159,160,160,2019-02-16,Pendente,2019-10-04,40597 Paget Park,China,223.85,Cartão de Crédito,5127.51
+160,161,161,2020-08-12,Entregue,2022-09-25,77221 Golf Course Road,Uzbekistan,580.96,PayPal,7444.44
+161,162,162,2016-12-17,Pendente,2018-04-30,275 Cardinal Parkway,Sweden,163.31,PayPal,3229.47
+162,163,163,2010-03-02,Enviado ao Cliente,2016-06-20,1657 Aberg Parkway,Portugal,971.85,Cartão de Crédito,2885.49
+163,164,164,2011-09-09,Em Processamento,2020-07-01,16907 Johnson Alley,China,15.15,PayPal,9166.11
+164,165,165,2015-05-16,Pendente,2016-02-01,9 Cherokee Terrace,Indonesia,89.33,Cartão de Crédito,3745.1
+165,166,166,2019-08-02,Pendente,2016-07-31,30116 Daystar Street,Thailand,292.61,PayPal,2613.21
+166,167,167,2014-11-06,Em Processamento,2018-10-29,92705 Cherokee Hill,Portugal,113.59,PayPal,6838.37
+167,168,168,2019-12-20,Em Processamento,2013-06-02,7013 Monument Trail,Sweden,155.76,PayPal,7924.46
+168,169,169,2021-12-20,Pendente,2017-08-17,906 Dennis Avenue,China,721.39,PayPal,1931.12
+169,170,170,2022-04-10,Entregue,2012-07-17,993 Bluejay Terrace,Uzbekistan,386.57,Pago na Entrega,9505.69
+170,171,171,2018-12-02,Enviado ao Cliente,2021-01-19,00 Towne Point,France,917.19,Pago na Entrega,753.19
+171,172,172,2016-10-24,Pendente,2014-01-27,742 Graedel Point,Indonesia,848.23,Cartão de Crédito,3407.49
+172,173,173,2016-11-08,Em Processamento,2021-01-03,8 Macpherson Crossing,Mexico,69.12,PayPal,5829.69
+173,174,174,2012-08-03,Entregue,2021-08-27,3 Cordelia Alley,Philippines,911.96,PayPal,4347.96
+174,175,175,2021-09-23,Enviado ao Cliente,2015-10-21,7915 Fordem Parkway,Belarus,915.68,PayPal,4553.25
+175,176,176,2022-05-17,Pendente,2013-07-02,5915 Granby Park,Brazil,212.98,PayPal,973.35
+176,177,177,2022-08-29,Enviado ao Cliente,2010-03-19,89060 Eastlawn Parkway,Bangladesh,587.12,Pago na Entrega,1746.72
+177,178,178,2016-04-11,Enviado ao Cliente,2015-08-27,56 Sutherland Parkway,Croatia,264.33,Cartão de Crédito,6691.99
+178,179,179,2015-06-14,Pendente,2012-04-03,46716 Paget Pass,China,291.85,Cartão de Crédito,3880.0
+179,180,180,2019-01-26,Entregue,2012-03-22,83137 Logan Junction,Indonesia,880.53,PayPal,3179.67
+180,181,181,2019-02-21,Enviado ao Cliente,2017-04-08,91795 Glacier Hill Crossing,Sweden,489.8,Pago na Entrega,7462.19
+181,182,182,2016-03-10,Enviado ao Cliente,2020-04-11,845 Delladonna Street,Russia,423.32,PayPal,5364.2
+182,183,183,2022-05-05,Em Processamento,2014-09-05,27999 Basil Point,Peru,823.65,Pago na Entrega,7959.18
+183,184,184,2019-03-03,Enviado ao Cliente,2020-05-17,45310 Oak Valley Place,Mongolia,348.5,PayPal,5168.27
+184,185,185,2015-06-28,Enviado ao Cliente,2016-12-23,5809 Ludington Trail,France,719.24,PayPal,4174.83
+185,186,186,2022-03-12,Entregue,2012-03-18,932 Crowley Park,Bosnia and Herzegovina,291.54,Pago na Entrega,9811.44
+186,187,187,2012-09-02,Enviado ao Cliente,2013-03-08,27233 Delladonna Alley,Kenya,613.29,PayPal,5818.74
+187,188,188,2021-06-24,Enviado ao Cliente,2015-02-08,298 Scoville Place,Indonesia,345.03,PayPal,5433.52
+188,189,189,2013-07-22,Em Processamento,2016-07-01,8 Grayhawk Place,Indonesia,637.53,PayPal,3625.73
+189,190,190,2017-10-31,Entregue,2019-09-02,1 Fuller Crossing,Indonesia,462.01,Cartão de Crédito,8654.59
+190,191,191,2017-07-29,Em Processamento,2020-06-28,7 Kedzie Pass,Portugal,738.1,Cartão de Crédito,3105.24
+191,192,192,2021-03-19,Pendente,2020-10-12,6 Fuller Alley,Macedonia,966.75,PayPal,3729.8
+192,193,193,2016-09-09,Entregue,2011-06-27,3663 Twin Pines Place,Portugal,587.78,Cartão de Crédito,7541.38
+193,194,194,2016-01-26,Entregue,2020-03-15,0686 Village Green Park,China,973.08,PayPal,8455.4
+194,195,195,2012-03-19,Entregue,2018-02-28,57128 Nancy Crossing,Denmark,661.3,Pago na Entrega,266.86
+195,196,196,2010-04-19,Entregue,2017-08-31,52247 Becker Court,Botswana,720.71,PayPal,4497.92
+196,197,197,2022-01-08,Entregue,2019-12-31,6836 1st Court,Tanzania,438.43,PayPal,6858.57
+197,198,198,2022-02-16,Pendente,2020-12-16,19434 Dapin Center,Portugal,581.78,PayPal,7223.12
+198,199,199,2019-01-26,Enviado ao Cliente,2022-10-09,89889 Gina Trail,Ukraine,517.08,Pago na Entrega,1828.45
+199,200,200,2017-02-22,Pendente,2015-02-04,2 Anzinger Lane,China,748.57,PayPal,5804.99
+200,201,201,2019-08-11,Em Processamento,2010-06-19,019 Dawn Point,Indonesia,571.25,Pago na Entrega,9445.46
+201,202,202,2020-04-01,Em Processamento,2016-09-29,5103 Sugar Park,Estonia,644.8,Cartão de Crédito,7621.65
+202,203,203,2014-12-16,Entregue,2018-12-29,5 Graedel Crossing,Poland,950.54,Pago na Entrega,5251.92
+203,204,204,2018-10-07,Em Processamento,2010-02-18,02 Lindbergh Junction,Philippines,144.8,Pago na Entrega,6887.33
+204,205,205,2015-08-25,Enviado ao Cliente,2012-02-29,4258 Novick Circle,Denmark,104.02,PayPal,5168.2
+205,206,206,2022-03-07,Pendente,2020-10-04,50 Leroy Hill,Poland,424.32,PayPal,4598.68
+206,207,207,2010-09-10,Entregue,2020-03-16,048 Waxwing Center,Australia,599.72,Cartão de Crédito,6596.06
+207,208,208,2010-05-17,Em Processamento,2011-02-15,69 Badeau Center,Pakistan,107.94,Cartão de Crédito,2823.89
+208,209,209,2013-03-27,Pendente,2014-09-24,6 Troy Avenue,Montenegro,206.71,PayPal,8923.69
+209,210,210,2021-06-13,Enviado ao Cliente,2013-06-23,833 Buena Vista Alley,China,92.95,Pago na Entrega,6590.75
+210,211,211,2022-09-15,Entregue,2017-02-22,7 Susan Court,Mexico,373.16,Cartão de Crédito,2283.02
+211,212,212,2022-03-29,Pendente,2011-05-08,1 Canary Place,Indonesia,852.67,Pago na Entrega,6649.44
+212,213,213,2013-04-11,Enviado ao Cliente,2018-09-25,4 Mifflin Lane,Portugal,756.85,Pago na Entrega,6646.01
+213,214,214,2020-10-23,Enviado ao Cliente,2017-09-07,46 Marquette Avenue,China,710.26,PayPal,2498.07
+214,215,215,2010-02-18,Enviado ao Cliente,2013-07-11,6 Hallows Alley,Morocco,387.12,Cartão de Crédito,1814.66
+215,216,216,2016-02-27,Em Processamento,2010-03-07,5 Basil Way,Indonesia,159.44,Cartão de Crédito,9586.84
+216,217,217,2014-01-03,Enviado ao Cliente,2017-05-04,38 Quincy Center,Vietnam,952.82,PayPal,1257.74
+217,218,218,2011-04-26,Enviado ao Cliente,2014-01-15,511 Erie Alley,Indonesia,240.92,Pago na Entrega,8503.02
+218,219,219,2015-04-28,Em Processamento,2022-04-26,30698 Shoshone Hill,Russia,391.14,PayPal,2582.04
+219,220,220,2010-01-21,Enviado ao Cliente,2020-12-10,662 Clove Hill,Argentina,431.55,PayPal,4832.16
+220,221,221,2013-11-27,Enviado ao Cliente,2013-02-19,94 2nd Way,North Korea,154.34,PayPal,8336.7
+221,222,222,2011-03-05,Pendente,2018-11-07,069 Maple Wood Avenue,Bulgaria,512.89,PayPal,9223.0
+222,223,223,2016-02-25,Pendente,2010-04-19,64 Bartillon Point,Mexico,71.46,Pago na Entrega,8669.76
+223,224,224,2020-12-16,Enviado ao Cliente,2020-05-06,176 Scott Avenue,Greece,463.23,Pago na Entrega,5774.64
+224,225,225,2018-03-06,Enviado ao Cliente,2011-04-19,8 Porter Drive,China,458.53,PayPal,1821.01
+225,226,226,2017-03-23,Em Processamento,2016-03-18,27974 Loftsgordon Junction,Myanmar,876.26,Cartão de Crédito,4660.77
+226,227,227,2011-10-27,Pendente,2021-11-19,8 Vermont Drive,China,80.55,Cartão de Crédito,7701.54
+227,228,228,2019-05-27,Enviado ao Cliente,2016-12-25,7715 Longview Street,Portugal,78.98,PayPal,2637.9
+228,229,229,2020-02-07,Enviado ao Cliente,2013-06-18,11262 Farmco Terrace,China,72.84,Cartão de Crédito,8012.43
+229,230,230,2022-04-20,Pendente,2012-04-07,5 Kennedy Plaza,Portugal,342.13,PayPal,7535.31
+230,231,231,2013-05-15,Pendente,2020-11-29,99 Village Court,Philippines,351.76,Cartão de Crédito,2053.34
+231,232,232,2013-08-16,Entregue,2017-09-26,4 Russell Plaza,Mexico,891.2,PayPal,1633.0
+232,233,233,2010-05-21,Em Processamento,2015-05-05,9222 Armistice Place,France,369.52,Cartão de Crédito,9626.27
+233,234,234,2018-04-06,Entregue,2012-03-15,871 Waxwing Alley,China,87.12,Pago na Entrega,5205.56
+234,235,235,2020-08-18,Enviado ao Cliente,2013-12-17,7447 Becker Park,Mozambique,4.69,Pago na Entrega,8059.88
+235,236,236,2013-04-11,Entregue,2014-03-30,073 Sage Road,China,381.18,PayPal,300.65
+236,237,237,2012-10-06,Pendente,2022-03-22,5216 Truax Hill,North Korea,438.18,Pago na Entrega,458.31
+237,238,238,2016-10-30,Pendente,2010-04-13,44901 3rd Avenue,China,882.28,Cartão de Crédito,1367.82
+238,239,239,2017-08-29,Em Processamento,2022-04-22,6097 Florence Hill,France,130.39,PayPal,6500.65
+239,240,240,2011-12-20,Em Processamento,2010-05-03,35194 Tennessee Pass,China,346.79,Cartão de Crédito,8930.28
+240,241,241,2015-04-18,Entregue,2010-03-31,36 Iowa Place,Sweden,10.76,Cartão de Crédito,833.34
+241,242,242,2013-03-23,Enviado ao Cliente,2014-07-15,70825 Bartillon Circle,Albania,372.81,PayPal,5272.13
+242,243,243,2018-11-09,Em Processamento,2020-02-26,54 Stang Avenue,Colombia,51.57,PayPal,6013.99
+243,244,244,2016-10-21,Entregue,2013-08-15,7 Cardinal Road,Peru,759.81,Pago na Entrega,6174.69
+244,245,245,2017-03-16,Em Processamento,2011-10-23,4 Butternut Terrace,Sweden,774.34,Cartão de Crédito,1223.48
+245,246,246,2021-03-02,Entregue,2014-12-07,54196 Beilfuss Lane,Peru,101.79,Pago na Entrega,8549.98
+246,247,247,2014-05-02,Pendente,2010-10-06,29588 Blaine Court,Brazil,50.72,Cartão de Crédito,5784.99
+247,248,248,2020-06-23,Em Processamento,2022-08-24,34 Washington Center,Philippines,498.04,Pago na Entrega,1878.88
+248,249,249,2021-01-07,Enviado ao Cliente,2016-02-23,2515 Becker Plaza,China,962.41,Pago na Entrega,6813.51
+249,250,250,2016-08-14,Enviado ao Cliente,2012-08-25,76 American Ash Junction,Pakistan,875.45,Cartão de Crédito,5727.39
+250,251,251,2018-08-31,Entregue,2021-06-03,253 Briar Crest Alley,China,596.1,Pago na Entrega,6753.58
+251,252,252,2019-02-06,Em Processamento,2017-11-06,0 Carberry Place,China,166.92,PayPal,9730.18
+252,253,253,2015-12-22,Em Processamento,2021-09-27,5104 Thompson Road,Russia,578.51,Pago na Entrega,5425.07
+253,254,254,2018-10-13,Pendente,2022-03-09,0 Artisan Circle,Indonesia,39.86,Pago na Entrega,6615.84
+254,255,255,2017-05-31,Em Processamento,2012-11-11,80357 Eastwood Pass,Brazil,283.27,Cartão de Crédito,8664.14
+255,256,256,2021-02-11,Em Processamento,2019-07-11,6 Warner Alley,China,929.8,PayPal,7834.19
+256,257,257,2010-02-04,Entregue,2022-09-14,081 Sunfield Hill,Oman,672.66,Pago na Entrega,2136.08
+257,258,258,2010-08-12,Pendente,2017-10-14,098 Gulseth Alley,Russia,96.47,PayPal,5297.12
+258,259,259,2020-06-16,Em Processamento,2019-11-27,3083 Kim Point,China,397.88,Cartão de Crédito,937.47
+259,260,260,2014-02-16,Entregue,2020-07-24,906 Riverside Junction,Poland,17.91,Pago na Entrega,738.1
+260,261,261,2012-01-16,Pendente,2020-05-29,6 Dayton Plaza,Spain,655.85,Cartão de Crédito,5659.04
+261,262,262,2013-12-04,Em Processamento,2020-09-27,34 Stephen Pass,China,253.06,PayPal,6137.26
+262,263,263,2017-05-22,Pendente,2011-08-21,04361 Old Shore Road,Belarus,0.41,Cartão de Crédito,6436.21
+263,264,264,2011-06-12,Entregue,2020-04-07,72418 Granby Center,Greece,773.13,Pago na Entrega,9666.28
+264,265,265,2012-05-16,Enviado ao Cliente,2013-05-01,61058 Scott Lane,Russia,359.06,PayPal,7978.75
+265,266,266,2021-12-19,Pendente,2015-10-26,90 Kensington Park,Ecuador,750.69,PayPal,1247.63
+266,267,267,2011-03-21,Em Processamento,2010-07-23,294 Lakeland Terrace,Poland,573.75,Pago na Entrega,2219.43
+267,268,268,2022-12-29,Em Processamento,2018-03-12,62 Dunning Park,United Kingdom,155.46,PayPal,1467.4
+268,269,269,2010-07-13,Entregue,2020-12-21,2032 Gale Point,Sudan,944.04,Cartão de Crédito,384.64
+269,270,270,2015-10-15,Pendente,2012-09-10,08338 Ryan Court,China,600.33,PayPal,897.0
+270,271,271,2018-10-24,Em Processamento,2022-07-28,81214 Meadow Ridge Hill,China,106.62,PayPal,888.8
+271,272,272,2021-06-28,Enviado ao Cliente,2014-02-28,974 Gale Park,Czech Republic,213.71,Cartão de Crédito,19.16
+272,273,273,2016-08-18,Enviado ao Cliente,2016-06-04,691 Warrior Hill,Ukraine,979.14,Pago na Entrega,7305.1
+273,274,274,2014-03-18,Entregue,2012-06-01,92089 Manufacturers Center,China,314.14,Pago na Entrega,8850.86
+274,275,275,2013-06-11,Pendente,2016-05-05,210 Bluejay Plaza,Indonesia,915.39,Pago na Entrega,7942.98
+275,276,276,2021-05-14,Entregue,2016-04-26,8 Granby Hill,Russia,559.61,Cartão de Crédito,4977.58
+276,277,277,2012-12-30,Enviado ao Cliente,2016-02-11,6 Lyons Drive,China,192.49,PayPal,2287.39
+277,278,278,2019-12-27,Enviado ao Cliente,2014-04-02,65367 Barnett Pass,Indonesia,332.26,Pago na Entrega,9493.49
+278,279,279,2016-07-23,Enviado ao Cliente,2018-12-15,48701 Hoffman Alley,China,328.59,Pago na Entrega,4217.04
+279,280,280,2014-11-06,Pendente,2012-11-18,7475 Loomis Junction,Armenia,553.4,Cartão de Crédito,4682.3
+280,281,281,2010-08-18,Entregue,2012-06-08,252 American Alley,New Zealand,620.93,PayPal,2036.29
+281,282,282,2017-03-25,Pendente,2014-07-26,4 Oriole Center,France,612.09,Cartão de Crédito,1960.74
+282,283,283,2010-08-02,Enviado ao Cliente,2010-12-12,97 Namekagon Point,Peru,171.16,Pago na Entrega,2517.4
+283,284,284,2015-02-10,Em Processamento,2010-11-16,0 Victoria Road,Angola,262.28,Cartão de Crédito,3769.74
+284,285,285,2018-05-11,Em Processamento,2010-02-03,53492 Meadow Vale Circle,Indonesia,731.28,Cartão de Crédito,4357.2
+285,286,286,2017-10-11,Entregue,2016-03-26,11556 High Crossing Circle,Ireland,502.34,Cartão de Crédito,5617.13
+286,287,287,2022-09-29,Pendente,2016-07-19,985 Hayes Circle,Ukraine,100.41,Cartão de Crédito,385.87
+287,288,288,2012-07-04,Em Processamento,2010-04-19,0 Chive Junction,Slovenia,922.68,Pago na Entrega,259.17
+288,289,289,2012-04-05,Enviado ao Cliente,2017-03-26,6 Lerdahl Avenue,Jamaica,775.67,Cartão de Crédito,7159.94
+289,290,290,2022-09-23,Enviado ao Cliente,2019-07-05,45229 Lillian Trail,Indonesia,206.7,Pago na Entrega,6480.3
+290,291,291,2010-06-04,Enviado ao Cliente,2011-08-07,47 Randy Park,Angola,841.03,Pago na Entrega,8818.9
+291,292,292,2011-12-19,Pendente,2015-04-06,10 Meadow Valley Alley,Indonesia,654.45,PayPal,8461.78
+292,293,293,2010-06-17,Em Processamento,2015-12-21,62542 Packers Point,Guatemala,430.71,PayPal,1068.56
+293,294,294,2016-10-27,Entregue,2016-12-11,9 Manley Junction,Palestinian Territory,231.31,Pago na Entrega,8235.39
+294,295,295,2017-02-11,Pendente,2013-06-13,2 Thackeray Court,Indonesia,824.17,Cartão de Crédito,8954.19
+295,296,296,2017-04-21,Em Processamento,2019-03-14,0 Lien Alley,Canada,59.79,Cartão de Crédito,8184.58
+296,297,297,2012-03-25,Pendente,2021-05-19,52 Manitowish Way,China,296.23,Cartão de Crédito,9444.72
+297,298,298,2017-06-03,Entregue,2022-03-23,833 Mesta Point,Yemen,955.96,Cartão de Crédito,4394.53
+298,299,299,2016-09-28,Pendente,2012-11-13,636 Longview Center,Democratic Republic of the Congo,686.62,Pago na Entrega,2828.25
+299,300,300,2010-08-18,Entregue,2021-05-05,653 Sherman Circle,Kenya,152.17,Cartão de Crédito,4550.73
+300,301,301,2017-05-06,Em Processamento,2014-10-14,511 Sachs Plaza,Sri Lanka,556.43,PayPal,9942.33
+301,302,302,2022-11-27,Enviado ao Cliente,2013-03-01,151 Oak Way,China,583.85,Cartão de Crédito,375.72
+302,303,303,2019-01-04,Enviado ao Cliente,2020-11-08,0 Blue Bill Park Point,Spain,61.2,Pago na Entrega,9905.7
+303,304,304,2015-07-17,Entregue,2018-08-08,770 Cordelia Crossing,Philippines,342.37,Pago na Entrega,8913.76
+304,305,305,2012-08-19,Pendente,2014-05-15,8 Caliangt Plaza,United States,867.23,Cartão de Crédito,9200.93
+305,306,306,2021-06-25,Entregue,2010-08-06,6711 Sheridan Avenue,Indonesia,525.28,PayPal,7676.14
+306,307,307,2020-03-14,Entregue,2017-12-15,653 Bunker Hill Center,Czech Republic,355.22,PayPal,5801.05
+307,308,308,2013-06-03,Enviado ao Cliente,2011-07-23,73 Drewry Lane,Russia,888.39,Cartão de Crédito,4215.26
+308,309,309,2010-10-07,Enviado ao Cliente,2013-12-13,1 Hoard Alley,Ukraine,534.41,Pago na Entrega,6155.88
+309,310,310,2019-03-25,Enviado ao Cliente,2021-04-01,57689 Lillian Center,Indonesia,653.59,Pago na Entrega,6406.1
+310,311,311,2012-08-14,Enviado ao Cliente,2016-03-19,66301 1st Park,Brazil,953.38,PayPal,9759.41
+311,312,312,2016-02-21,Enviado ao Cliente,2016-02-20,716 Scofield Place,United Kingdom,43.14,Cartão de Crédito,2945.09
+312,313,313,2014-11-25,Entregue,2014-09-21,92 Holmberg Circle,France,947.86,Cartão de Crédito,4858.86
+313,314,314,2022-11-22,Enviado ao Cliente,2020-04-17,582 Knutson Place,Czech Republic,816.69,Pago na Entrega,2010.07
+314,315,315,2021-07-25,Entregue,2017-03-10,087 Meadow Ridge Alley,Kyrgyzstan,353.67,Pago na Entrega,8993.87
+315,316,316,2021-11-05,Entregue,2014-01-09,11 Everett Circle,Ukraine,762.41,Cartão de Crédito,7919.72
+316,317,317,2011-11-20,Enviado ao Cliente,2014-04-21,07356 Southridge Street,Brazil,881.25,Pago na Entrega,2714.06
+317,318,318,2022-02-14,Pendente,2022-04-09,81191 Mifflin Junction,Croatia,379.12,Pago na Entrega,1634.54
+318,319,319,2017-07-22,Entregue,2022-05-03,8089 Granby Parkway,Palestinian Territory,879.82,PayPal,8555.83
+319,320,320,2022-02-23,Pendente,2014-03-05,8414 Bobwhite Parkway,Sweden,982.68,PayPal,6066.1
+320,321,321,2010-08-09,Entregue,2012-05-23,286 Marcy Street,China,551.08,Cartão de Crédito,3441.22
+321,322,322,2020-01-25,Pendente,2017-04-15,8 Holmberg Court,Vietnam,467.3,Cartão de Crédito,1946.37
+322,323,323,2017-07-29,Em Processamento,2011-07-08,0297 Sycamore Place,Vietnam,828.05,PayPal,3057.32
+323,324,324,2011-08-07,Pendente,2021-10-25,21067 Manitowish Alley,Finland,798.59,Pago na Entrega,9699.11
+324,325,325,2020-02-06,Entregue,2013-06-15,449 Nelson Avenue,Indonesia,913.01,Pago na Entrega,3845.16
+325,326,326,2010-03-11,Enviado ao Cliente,2014-01-23,716 Prentice Crossing,Morocco,647.09,Cartão de Crédito,9241.02
+326,327,327,2013-01-06,Em Processamento,2018-05-14,94323 Everett Street,Cape Verde,937.37,PayPal,2462.14
+327,328,328,2021-09-21,Em Processamento,2012-01-12,2 Anzinger Street,Indonesia,787.68,Pago na Entrega,2982.52
+328,329,329,2019-12-04,Enviado ao Cliente,2010-01-24,2 Stang Drive,United States,734.44,PayPal,3262.75
+329,330,330,2012-12-21,Em Processamento,2016-07-30,63302 Monica Alley,Russia,803.05,Pago na Entrega,8366.59
+330,331,331,2016-07-26,Pendente,2012-09-06,09713 Messerschmidt Parkway,Portugal,303.84,Pago na Entrega,9657.65
+331,332,332,2021-06-18,Enviado ao Cliente,2020-05-21,877 Meadow Ridge Avenue,Sweden,621.6,PayPal,7867.96
+332,333,333,2020-10-12,Entregue,2010-11-19,90296 Rockefeller Center,Portugal,726.96,Pago na Entrega,577.21
+333,334,334,2018-09-24,Enviado ao Cliente,2017-07-12,80 Scott Center,China,209.82,PayPal,3891.52
+334,335,335,2019-06-04,Em Processamento,2019-09-14,5 Harbort Road,Israel,798.62,PayPal,1899.14
+335,336,336,2013-11-27,Enviado ao Cliente,2015-10-19,30292 Main Junction,Argentina,697.29,Cartão de Crédito,7259.3
+336,337,337,2020-11-22,Pendente,2018-06-12,36965 Stone Corner Plaza,Brazil,432.26,PayPal,4007.31
+337,338,338,2016-02-29,Entregue,2010-11-12,5341 South Trail,Indonesia,86.01,Pago na Entrega,8585.96
+338,339,339,2014-02-14,Em Processamento,2016-05-02,9360 Green Ridge Pass,South Africa,119.45,PayPal,9565.73
+339,340,340,2021-07-17,Entregue,2019-01-12,820 Algoma Parkway,China,320.89,Pago na Entrega,2753.72
+340,341,341,2015-01-01,Em Processamento,2014-09-30,3326 Algoma Trail,Thailand,601.57,Cartão de Crédito,6800.6
+341,342,342,2018-04-30,Entregue,2012-08-01,9 David Terrace,Peru,132.49,Pago na Entrega,4169.96
+342,343,343,2022-10-29,Enviado ao Cliente,2013-05-26,59218 Center Court,China,972.32,Pago na Entrega,2794.06
+343,344,344,2017-09-03,Em Processamento,2013-02-25,8843 Sutteridge Lane,France,635.8,Cartão de Crédito,4713.57
+344,345,345,2021-09-17,Entregue,2017-02-16,686 Golf Course Hill,Spain,495.45,Pago na Entrega,3217.83
+345,346,346,2018-08-25,Pendente,2010-12-17,4690 Holy Cross Trail,United States,738.86,Pago na Entrega,2792.23
+346,347,347,2011-02-22,Enviado ao Cliente,2012-12-13,036 Brickson Park Circle,Russia,366.03,PayPal,2598.96
+347,348,348,2017-11-19,Pendente,2015-12-23,2 Ridgeview Place,Colombia,483.51,PayPal,8363.68
+348,349,349,2013-02-04,Entregue,2018-03-04,70 Main Alley,China,494.29,Cartão de Crédito,6299.13
+349,350,350,2021-10-31,Entregue,2019-10-20,9523 6th Road,China,571.03,Pago na Entrega,2863.74
+350,351,351,2020-08-09,Pendente,2019-03-10,9888 Duke Crossing,Indonesia,282.29,PayPal,8112.83
+351,352,352,2016-11-30,Entregue,2016-09-18,602 Becker Alley,China,554.71,PayPal,4614.54
+352,353,353,2022-05-24,Pendente,2014-02-10,801 Prairie Rose Center,China,373.15,PayPal,1133.83
+353,354,354,2015-09-17,Em Processamento,2014-11-28,5 Stephen Court,Indonesia,37.75,Cartão de Crédito,3084.93
+354,355,355,2020-04-22,Pendente,2019-10-14,3 Bay Drive,Russia,496.97,Pago na Entrega,9368.89
+355,356,356,2019-07-17,Enviado ao Cliente,2019-10-17,37879 Eliot Lane,China,48.57,Cartão de Crédito,5305.28
+356,357,357,2017-05-17,Enviado ao Cliente,2015-12-21,5 Emmet Lane,Mexico,314.03,PayPal,5812.44
+357,358,358,2015-09-09,Enviado ao Cliente,2020-11-23,86 Prairie Rose Crossing,France,565.26,Cartão de Crédito,3404.69
+358,359,359,2010-03-31,Entregue,2010-02-05,20 Gulseth Lane,Philippines,465.1,PayPal,7748.02
+359,360,360,2021-12-23,Enviado ao Cliente,2020-06-03,821 Old Gate Lane,Cameroon,395.36,Pago na Entrega,7006.2
+360,361,361,2015-12-20,Enviado ao Cliente,2018-03-06,3 Hovde Hill,Russia,470.54,Pago na Entrega,2213.45
+361,362,362,2018-07-31,Em Processamento,2012-09-16,249 Carey Drive,China,918.6,PayPal,6110.58
+362,363,363,2011-01-26,Pendente,2018-09-03,8113 Boyd Junction,Guatemala,61.11,PayPal,1982.73
+363,364,364,2011-09-15,Pendente,2020-01-19,8 Shoshone Point,Portugal,290.17,PayPal,6823.1
+364,365,365,2019-01-12,Enviado ao Cliente,2012-12-02,1 Bartelt Terrace,Indonesia,385.79,PayPal,9592.8
+365,366,366,2020-12-12,Em Processamento,2011-01-17,3014 Barby Court,Indonesia,42.94,Cartão de Crédito,4809.18
+366,367,367,2021-07-18,Em Processamento,2020-08-28,502 Mayfield Parkway,Philippines,287.51,PayPal,6758.97
+367,368,368,2011-08-27,Enviado ao Cliente,2013-07-18,95173 Ridge Oak Road,China,981.51,Pago na Entrega,7855.97
+368,369,369,2018-05-24,Em Processamento,2016-07-28,45810 Ryan Park,South Korea,616.22,Pago na Entrega,6101.49
+369,370,370,2016-05-21,Em Processamento,2014-03-12,6950 Graedel Hill,Brazil,395.33,Pago na Entrega,5757.25
+370,371,371,2020-09-20,Em Processamento,2011-09-21,6 Schiller Trail,Colombia,671.43,PayPal,3485.69
+371,372,372,2011-05-11,Enviado ao Cliente,2017-10-27,0745 Hansons Pass,Philippines,630.36,PayPal,9507.47
+372,373,373,2018-11-04,Enviado ao Cliente,2020-05-25,0 Service Road,Russia,358.1,PayPal,4101.59
+373,374,374,2015-09-14,Entregue,2019-09-01,6 Rowland Plaza,Malta,106.79,Pago na Entrega,1344.85
+374,375,375,2022-02-04,Em Processamento,2010-01-06,5 Grasskamp Park,Brazil,14.27,PayPal,1092.81
+375,376,376,2011-02-25,Enviado ao Cliente,2017-04-21,9 Warner Circle,Brazil,737.24,Cartão de Crédito,7638.73
+376,377,377,2021-03-25,Entregue,2022-09-05,3079 Brentwood Trail,Indonesia,676.96,PayPal,3489.4
+377,378,378,2021-10-01,Enviado ao Cliente,2019-02-19,2323 Hovde Drive,Indonesia,109.69,Cartão de Crédito,2055.74
+378,379,379,2013-02-21,Entregue,2018-09-30,956 Mosinee Street,Portugal,575.56,PayPal,9968.57
+379,380,380,2013-11-26,Em Processamento,2013-10-16,4802 Lighthouse Bay Crossing,Greece,196.5,Cartão de Crédito,1430.75
+380,381,381,2018-04-28,Em Processamento,2022-02-24,5 Gateway Place,Philippines,156.65,PayPal,8839.65
+381,382,382,2010-12-18,Pendente,2017-09-11,0079 Summit Way,Nigeria,932.02,PayPal,2638.0
+382,383,383,2012-11-02,Enviado ao Cliente,2020-03-27,32 Northview Pass,United States,530.3,Cartão de Crédito,5138.51
+383,384,384,2012-11-16,Entregue,2013-02-11,2911 Hauk Alley,China,213.79,Pago na Entrega,804.4
+384,385,385,2020-07-19,Em Processamento,2016-09-10,2 Crowley Circle,Philippines,792.14,Pago na Entrega,9380.0
+385,386,386,2018-11-13,Em Processamento,2015-09-17,6818 Oak Junction,Russia,959.96,PayPal,2709.49
+386,387,387,2020-12-12,Pendente,2021-09-26,8 Elmside Hill,Indonesia,222.71,PayPal,1366.14
+387,388,388,2018-02-01,Enviado ao Cliente,2010-03-20,75 Kinsman Junction,Indonesia,675.74,Pago na Entrega,9658.5
+388,389,389,2016-05-29,Em Processamento,2021-12-24,9 Thierer Crossing,China,940.19,Pago na Entrega,1879.92
+389,390,390,2010-12-03,Em Processamento,2012-08-27,1828 Jay Junction,China,556.63,PayPal,7164.38
+390,391,391,2021-12-12,Em Processamento,2020-02-02,655 Paget Circle,Portugal,108.23,Pago na Entrega,1131.74
+391,392,392,2021-08-28,Pendente,2015-04-08,5 Morningstar Street,France,794.06,PayPal,6662.16
+392,393,393,2011-02-27,Em Processamento,2016-01-30,61342 Knutson Way,Greece,181.28,PayPal,7342.9
+393,394,394,2021-09-06,Entregue,2011-06-18,7160 Main Point,China,162.48,Cartão de Crédito,3442.9
+394,395,395,2022-01-12,Entregue,2011-09-19,91 Pennsylvania Street,Afghanistan,475.91,PayPal,3528.92
+395,396,396,2010-10-21,Entregue,2020-03-20,21 Beilfuss Drive,Tanzania,478.03,PayPal,6613.26
+396,397,397,2017-02-07,Enviado ao Cliente,2019-08-20,23 John Wall Parkway,Indonesia,651.07,PayPal,8580.66
+397,398,398,2016-06-24,Enviado ao Cliente,2015-12-10,04 Waywood Avenue,Indonesia,250.34,PayPal,5117.43
+398,399,399,2017-09-15,Pendente,2011-12-15,75 Warbler Avenue,China,428.58,Pago na Entrega,3489.32
+399,400,400,2015-12-31,Entregue,2010-10-27,3 Graedel Parkway,Japan,451.97,PayPal,4423.09
+400,401,401,2020-02-14,Em Processamento,2017-05-20,33986 Pepper Wood Center,Martinique,621.95,Cartão de Crédito,3798.85
+401,402,402,2020-05-31,Pendente,2013-07-31,361 Commercial Point,Philippines,882.27,Pago na Entrega,2666.04
+402,403,403,2017-01-07,Entregue,2021-01-20,94538 Katie Hill,Brazil,878.0,PayPal,8372.4
+403,404,404,2022-03-19,Em Processamento,2018-11-16,9 Parkside Crossing,Sweden,690.25,PayPal,8533.94
+404,405,405,2010-12-09,Em Processamento,2016-09-06,4 Miller Crossing,Portugal,87.39,Pago na Entrega,5935.22
+405,406,406,2022-12-23,Em Processamento,2019-05-20,25742 Carpenter Road,Indonesia,127.43,Pago na Entrega,4834.98
+406,407,407,2010-07-05,Pendente,2017-10-25,39949 Trailsway Alley,China,474.09,PayPal,13.66
+407,408,408,2016-02-02,Enviado ao Cliente,2011-03-26,67 Eagle Crest Plaza,Canada,533.7,Cartão de Crédito,604.16
+408,409,409,2011-04-13,Entregue,2013-05-30,2 Burrows Way,Indonesia,471.13,Cartão de Crédito,7941.23
+409,410,410,2021-12-25,Entregue,2011-06-03,3289 Pennsylvania Crossing,Netherlands,94.34,PayPal,3284.44
+410,411,411,2021-10-24,Pendente,2022-11-10,731 4th Circle,United States,956.89,Cartão de Crédito,436.52
+411,412,412,2016-09-08,Em Processamento,2022-11-01,50080 Spaight Parkway,Brazil,970.77,PayPal,9304.93
+412,413,413,2022-09-07,Entregue,2011-04-20,4392 Schmedeman Parkway,Switzerland,303.91,PayPal,1364.76
+413,414,414,2017-05-02,Enviado ao Cliente,2012-10-08,23 Lyons Way,United States,872.65,Cartão de Crédito,7910.29
+414,415,415,2012-11-19,Enviado ao Cliente,2015-06-24,9 Kensington Way,Namibia,963.46,PayPal,795.28
+415,416,416,2011-05-28,Em Processamento,2022-07-07,3735 Sunfield Way,Poland,714.86,PayPal,4317.44
+416,417,417,2010-05-24,Em Processamento,2022-09-11,880 Mariners Cove Parkway,Dominican Republic,927.96,Cartão de Crédito,5890.3
+417,418,418,2020-01-26,Entregue,2018-07-29,65136 Darwin Road,China,340.9,Pago na Entrega,4486.45
+418,419,419,2019-12-20,Pendente,2022-02-11,2 Waywood Lane,Russia,973.45,Pago na Entrega,3069.13
+419,420,420,2021-10-02,Em Processamento,2018-10-31,4 Grim Parkway,China,826.0,Cartão de Crédito,1508.86
+420,421,421,2011-02-07,Enviado ao Cliente,2010-10-03,922 Westend Road,Bulgaria,926.07,Pago na Entrega,2805.44
+421,422,422,2010-05-03,Em Processamento,2014-09-13,2366 Center Parkway,Cameroon,672.29,PayPal,7897.49
+422,423,423,2020-07-05,Em Processamento,2014-05-07,24 Loomis Plaza,Ivory Coast,588.59,PayPal,1188.91
+423,424,424,2021-06-26,Enviado ao Cliente,2020-05-16,2189 Melvin Place,Taiwan,280.56,PayPal,2939.29
+424,425,425,2011-12-28,Enviado ao Cliente,2016-10-04,58534 Ludington Court,Nigeria,348.44,Cartão de Crédito,5329.3
+425,426,426,2015-10-14,Entregue,2017-03-12,47341 Homewood Court,Brazil,435.87,Cartão de Crédito,5642.55
+426,427,427,2019-05-01,Pendente,2014-11-28,06 Cody Crossing,Philippines,680.33,PayPal,8911.63
+427,428,428,2019-02-11,Em Processamento,2015-03-27,878 Nova Way,Indonesia,590.62,Pago na Entrega,7842.94
+428,429,429,2014-07-09,Entregue,2018-12-07,7 Merrick Park,Japan,549.44,PayPal,8382.32
+429,430,430,2018-05-22,Em Processamento,2013-10-14,48479 Golf View Junction,Brazil,21.28,PayPal,9140.87
+430,431,431,2020-04-18,Pendente,2010-12-26,8891 Corry Place,Netherlands,547.21,Cartão de Crédito,5173.63
+431,432,432,2017-06-08,Enviado ao Cliente,2015-07-18,99887 Portage Parkway,China,801.53,Pago na Entrega,7929.34
+432,433,433,2018-03-17,Pendente,2011-06-12,1 Eggendart Park,Croatia,153.66,Pago na Entrega,260.42
+433,434,434,2018-09-14,Enviado ao Cliente,2017-02-22,01312 Melby Circle,Peru,852.95,Cartão de Crédito,2571.32
+434,435,435,2018-09-27,Em Processamento,2011-09-16,36047 Briar Crest Crossing,Slovenia,867.06,Cartão de Crédito,7985.7
+435,436,436,2013-01-03,Em Processamento,2010-07-05,278 4th Plaza,China,654.43,Pago na Entrega,1016.65
+436,437,437,2011-05-05,Enviado ao Cliente,2019-07-23,70 Coleman Lane,Venezuela,657.81,Cartão de Crédito,3665.46
+437,438,438,2017-04-30,Em Processamento,2018-09-03,6727 Melody Place,China,139.08,Pago na Entrega,5212.31
+438,439,439,2021-06-05,Em Processamento,2021-07-27,61 Talmadge Way,Czech Republic,591.36,Pago na Entrega,661.7
+439,440,440,2013-05-25,Em Processamento,2020-12-21,2 Birchwood Terrace,China,951.33,Cartão de Crédito,3201.13
+440,441,441,2020-01-12,Entregue,2021-08-15,38813 School Road,China,643.03,PayPal,5620.7
+441,442,442,2012-08-03,Entregue,2014-12-25,70 Kinsman Plaza,Portugal,307.06,Pago na Entrega,5286.25
+442,443,443,2020-09-04,Entregue,2013-06-08,71790 Chive Road,Philippines,743.37,Pago na Entrega,4476.94
+443,444,444,2022-02-12,Pendente,2012-06-29,396 Duke Plaza,Greece,303.65,Pago na Entrega,5438.82
+444,445,445,2018-03-19,Enviado ao Cliente,2017-08-08,74445 Lyons Circle,China,734.21,PayPal,7946.63
+445,446,446,2012-03-03,Pendente,2020-08-03,53706 Barby Pass,Syria,239.35,PayPal,2136.14
+446,447,447,2017-11-17,Pendente,2014-09-01,09 Bayside Pass,China,41.23,Pago na Entrega,3096.67
+447,448,448,2017-01-09,Pendente,2014-04-17,5 Anzinger Hill,China,39.58,PayPal,2825.87
+448,449,449,2017-05-26,Entregue,2022-07-05,412 Packers Pass,Sweden,109.5,Pago na Entrega,7303.62
+449,450,450,2019-11-30,Pendente,2021-02-17,6631 Bayside Center,Uzbekistan,3.34,PayPal,7485.06
+450,451,451,2011-12-04,Entregue,2022-06-16,67556 Oak Place,Indonesia,52.5,Cartão de Crédito,729.93
+451,452,452,2016-04-05,Pendente,2012-08-21,0790 Pierstorff Park,Philippines,288.51,Cartão de Crédito,2348.82
+452,453,453,2011-06-14,Enviado ao Cliente,2020-09-26,427 Oakridge Circle,Spain,105.57,PayPal,6799.89
+453,454,454,2010-10-02,Enviado ao Cliente,2015-02-28,2334 5th Lane,Russia,711.59,Cartão de Crédito,2704.58
+454,455,455,2013-11-23,Enviado ao Cliente,2018-01-09,14 Buhler Lane,Peru,154.85,Cartão de Crédito,9137.25
+455,456,456,2012-01-07,Enviado ao Cliente,2018-01-07,977 Eggendart Center,Colombia,383.32,PayPal,761.01
+456,457,457,2017-11-13,Pendente,2013-10-25,487 Golf View Crossing,Poland,65.2,Cartão de Crédito,4604.19
+457,458,458,2018-07-30,Pendente,2016-04-19,45960 Meadow Ridge Pass,Sweden,643.31,Cartão de Crédito,6926.13
+458,459,459,2015-06-27,Em Processamento,2018-11-22,484 Graedel Parkway,Panama,880.47,Cartão de Crédito,4585.47
+459,460,460,2011-05-31,Pendente,2020-08-04,388 Basil Pass,Indonesia,446.78,Cartão de Crédito,1957.38
+460,461,461,2020-02-09,Pendente,2013-09-04,50179 Farragut Hill,China,377.32,Pago na Entrega,9250.26
+461,462,462,2010-07-01,Entregue,2012-10-30,2 Dixon Park,Thailand,425.16,PayPal,8376.7
+462,463,463,2010-04-03,Enviado ao Cliente,2014-03-18,3904 Hollow Ridge Hill,China,492.56,Cartão de Crédito,343.63
+463,464,464,2011-07-17,Em Processamento,2018-01-12,04 Huxley Circle,Portugal,613.27,PayPal,3029.53
+464,465,465,2015-11-07,Enviado ao Cliente,2010-01-09,3032 Sutherland Street,Philippines,625.01,Cartão de Crédito,9386.85
+465,466,466,2015-07-14,Enviado ao Cliente,2017-10-21,5 Eliot Hill,Brazil,822.02,PayPal,9664.58
+466,467,467,2019-08-01,Em Processamento,2010-03-03,87516 Surrey Crossing,China,920.03,PayPal,6687.42
+467,468,468,2020-02-26,Em Processamento,2016-06-21,43669 4th Court,Vietnam,527.7,PayPal,4057.49
+468,469,469,2010-06-10,Em Processamento,2015-04-16,0743 Derek Place,Portugal,66.62,Pago na Entrega,221.45
+469,470,470,2017-06-21,Em Processamento,2019-10-19,173 Farwell Trail,China,859.77,Cartão de Crédito,1461.71
+470,471,471,2015-06-12,Enviado ao Cliente,2013-03-30,4 Ohio Terrace,Sweden,907.14,Cartão de Crédito,1332.46
+471,472,472,2018-12-01,Entregue,2019-08-24,4710 Jenna Crossing,Mexico,173.95,Cartão de Crédito,1787.74
+472,473,473,2016-08-10,Enviado ao Cliente,2014-09-07,82 Eastwood Road,Indonesia,466.25,PayPal,2888.6
+473,474,474,2022-06-24,Pendente,2011-12-12,67789 Sutteridge Way,Poland,563.93,PayPal,9057.44
+474,475,475,2010-09-15,Pendente,2019-11-03,00 Dottie Drive,Belarus,92.87,PayPal,9230.32
+475,476,476,2013-05-09,Enviado ao Cliente,2021-04-15,49948 Marcy Junction,China,709.76,Cartão de Crédito,607.51
+476,477,477,2019-06-21,Em Processamento,2017-04-27,5124 Stoughton Avenue,France,457.46,Cartão de Crédito,2858.32
+477,478,478,2011-10-18,Entregue,2018-10-15,76034 Harper Pass,Netherlands,50.37,PayPal,7421.76
+478,479,479,2017-04-14,Entregue,2021-09-30,0 Katie Point,China,686.28,PayPal,6849.59
+479,480,480,2011-05-04,Pendente,2021-01-28,08 Fairview Avenue,China,524.87,Pago na Entrega,1248.52
+480,481,481,2010-05-16,Entregue,2010-12-25,66680 Warrior Road,China,293.34,PayPal,2202.52
+481,482,482,2018-12-15,Entregue,2018-11-29,3 Continental Place,Philippines,183.12,Pago na Entrega,2462.11
+482,483,483,2010-06-06,Em Processamento,2015-08-11,186 Valley Edge Pass,Iran,866.92,Cartão de Crédito,1795.55
+483,484,484,2021-07-29,Pendente,2011-10-07,2803 Forest Dale Circle,Brazil,192.47,PayPal,6056.27
+484,485,485,2011-10-07,Pendente,2013-09-05,970 Corscot Parkway,France,112.07,PayPal,4021.89
+485,486,486,2017-10-31,Em Processamento,2020-06-05,6 Logan Avenue,Poland,215.02,Pago na Entrega,543.52
+486,487,487,2017-11-06,Entregue,2019-12-23,44 Ilene Way,Portugal,882.38,PayPal,3202.99
+487,488,488,2013-09-28,Em Processamento,2022-01-18,46903 Petterle Court,Vietnam,815.2,Pago na Entrega,8912.91
+488,489,489,2016-11-27,Pendente,2022-07-29,59 Prairieview Parkway,Thailand,688.71,Pago na Entrega,531.1
+489,490,490,2021-02-25,Em Processamento,2012-09-05,01095 Stang Center,Indonesia,807.94,PayPal,1285.69
+490,491,491,2011-04-27,Enviado ao Cliente,2020-02-22,41 Clarendon Pass,China,669.86,PayPal,354.08
+491,492,492,2022-04-02,Entregue,2020-11-08,69 Ohio Court,Russia,344.36,Cartão de Crédito,604.72
+492,493,493,2013-12-31,Entregue,2021-03-14,843 Sauthoff Center,Indonesia,622.08,Pago na Entrega,5888.22
+493,494,494,2010-02-02,Enviado ao Cliente,2022-09-10,48126 Kensington Trail,South Africa,794.95,PayPal,6640.87
+494,495,495,2020-11-30,Em Processamento,2016-11-23,88172 Golf Course Place,Poland,432.13,Pago na Entrega,9531.77
+495,496,496,2020-04-03,Pendente,2021-01-18,39548 Melvin Avenue,Indonesia,822.62,Cartão de Crédito,5799.4
+496,497,497,2017-01-28,Pendente,2012-05-20,9629 Erie Center,Nigeria,525.35,Cartão de Crédito,296.0
+497,498,498,2021-11-05,Em Processamento,2021-01-03,3 La Follette Park,Ethiopia,953.24,Cartão de Crédito,2097.61
+498,499,499,2019-09-06,Pendente,2014-09-20,16332 Tomscot Street,China,303.6,Cartão de Crédito,9619.8
+499,500,500,2013-10-21,Entregue,2021-03-10,55763 Shasta Way,Albania,732.29,Cartão de Crédito,3176.85
+500,501,501,2011-08-16,Pendente,2010-07-15,16337 Schurz Trail,Indonesia,287.67,PayPal,3868.22
+501,502,502,2020-11-08,Entregue,2017-02-08,276 Graceland Avenue,Indonesia,976.62,PayPal,2783.51
+502,503,503,2019-01-31,Entregue,2017-09-16,0 Clyde Gallagher Parkway,China,630.9,PayPal,5792.69
+503,504,504,2020-05-09,Enviado ao Cliente,2011-06-29,286 Milwaukee Drive,Japan,432.45,PayPal,5284.99
+504,505,505,2013-10-21,Pendente,2015-12-21,97 Ronald Regan Road,United States,772.33,Pago na Entrega,9211.5
+505,506,506,2014-04-26,Enviado ao Cliente,2020-03-19,32765 La Follette Alley,Tanzania,925.27,Pago na Entrega,6159.65
+506,507,507,2018-04-22,Pendente,2012-11-29,1374 Maple Wood Hill,Russia,917.64,Pago na Entrega,4683.45
+507,508,508,2013-12-13,Em Processamento,2010-07-27,0363 Carey Place,China,834.18,Cartão de Crédito,1267.92
+508,509,509,2016-08-29,Enviado ao Cliente,2019-01-02,6 Sycamore Way,Portugal,525.28,Cartão de Crédito,584.35
+509,510,510,2016-04-08,Pendente,2014-12-03,35 Loomis Park,Russia,859.66,PayPal,9334.88
+510,511,511,2014-07-23,Enviado ao Cliente,2013-05-25,5 Gerald Way,France,685.13,PayPal,9.93
+511,512,512,2022-09-28,Entregue,2017-09-21,365 Anniversary Hill,Portugal,636.22,Cartão de Crédito,4596.22
+512,513,513,2015-03-26,Pendente,2011-11-05,4491 Grim Center,Russia,327.4,Pago na Entrega,9910.45
+513,514,514,2019-02-19,Enviado ao Cliente,2013-05-21,48925 Graceland Point,Panama,615.82,Pago na Entrega,3067.02
+514,515,515,2015-04-18,Entregue,2019-06-02,7 Spaight Alley,China,263.13,Cartão de Crédito,8700.04
+515,516,516,2019-12-30,Enviado ao Cliente,2022-12-06,6 Florence Lane,Mongolia,853.17,Pago na Entrega,4091.4
+516,517,517,2011-06-14,Pendente,2012-01-17,13863 Service Trail,China,43.93,Pago na Entrega,2981.03
+517,518,518,2010-10-10,Pendente,2018-02-03,58 Butternut Pass,Philippines,226.05,Pago na Entrega,5930.76
+518,519,519,2014-05-11,Em Processamento,2011-07-17,6572 Jackson Trail,Vietnam,690.39,PayPal,1847.49
+519,520,520,2020-10-26,Enviado ao Cliente,2017-09-04,2 Heffernan Way,Ukraine,347.32,Pago na Entrega,7077.14
+520,521,521,2018-07-16,Entregue,2019-01-05,675 Kinsman Lane,China,989.65,PayPal,5844.96
+521,522,522,2010-06-09,Enviado ao Cliente,2021-03-07,6327 Almo Trail,Russia,382.84,PayPal,7180.57
+522,523,523,2014-09-25,Entregue,2021-09-10,076 Ramsey Drive,China,895.0,Cartão de Crédito,1920.2
+523,524,524,2011-02-02,Pendente,2012-02-06,3 Village Green Avenue,China,631.81,PayPal,8168.6
+524,525,525,2015-03-20,Em Processamento,2021-12-14,31 Manley Terrace,Indonesia,65.26,Cartão de Crédito,995.51
+525,526,526,2017-03-20,Em Processamento,2019-03-13,71418 Holy Cross Plaza,Malaysia,819.59,Cartão de Crédito,9424.96
+526,527,527,2020-12-26,Entregue,2013-11-02,6 Fair Oaks Hill,Indonesia,971.77,PayPal,5208.33
+527,528,528,2011-12-09,Pendente,2014-02-04,10 Sutherland Plaza,China,3.22,Pago na Entrega,3582.71
+528,529,529,2019-03-07,Enviado ao Cliente,2020-07-08,48284 Melby Pass,Colombia,606.6,PayPal,7820.31
+529,530,530,2010-04-28,Enviado ao Cliente,2020-04-18,35235 Warner Place,Indonesia,649.15,PayPal,2196.48
+530,531,531,2022-05-12,Enviado ao Cliente,2018-12-26,31 Dayton Parkway,Panama,839.99,Pago na Entrega,6975.8
+531,532,532,2020-09-07,Em Processamento,2022-05-26,6 Cottonwood Lane,China,637.86,Pago na Entrega,7468.04
+532,533,533,2011-06-13,Pendente,2020-08-29,71 Vera Trail,Armenia,411.94,Pago na Entrega,9633.66
+533,534,534,2012-04-24,Enviado ao Cliente,2012-10-02,79700 Anderson Trail,Indonesia,223.24,PayPal,7781.25
+534,535,535,2017-04-12,Em Processamento,2012-01-02,06 Doe Crossing Way,Norway,384.15,PayPal,9100.11
+535,536,536,2015-09-10,Pendente,2012-09-03,94 Quincy Park,Uganda,962.73,Cartão de Crédito,7864.13
+536,537,537,2020-08-06,Pendente,2014-12-30,4 Old Gate Crossing,Portugal,44.82,Cartão de Crédito,1116.62
+537,538,538,2015-08-01,Em Processamento,2010-11-20,58 Elgar Junction,China,708.64,Cartão de Crédito,5715.78
+538,539,539,2010-05-13,Enviado ao Cliente,2015-08-09,99968 Carey Terrace,Estonia,704.06,Cartão de Crédito,8924.85
+539,540,540,2021-01-11,Pendente,2018-07-04,308 Union Point,Russia,970.98,PayPal,3805.86
+540,541,541,2012-09-16,Enviado ao Cliente,2018-07-03,39 Burning Wood Park,Czech Republic,502.64,PayPal,2854.51
+541,542,542,2021-07-15,Entregue,2022-09-14,2110 Holmberg Terrace,China,199.44,Cartão de Crédito,406.64
+542,543,543,2018-08-01,Pendente,2013-12-17,5896 Village Green Hill,Brazil,179.05,PayPal,2267.25
+543,544,544,2011-03-07,Entregue,2015-01-25,203 Westport Hill,China,19.37,Cartão de Crédito,7166.23
+544,545,545,2010-10-11,Entregue,2020-09-24,246 Magdeline Center,United States,839.2,PayPal,9428.55
+545,546,546,2019-08-02,Em Processamento,2012-11-09,2 Hoard Terrace,Indonesia,726.83,Cartão de Crédito,6842.67
+546,547,547,2010-10-01,Enviado ao Cliente,2013-01-24,973 Elmside Street,Ukraine,205.0,Pago na Entrega,5957.43
+547,548,548,2013-10-07,Em Processamento,2013-05-02,9787 Barnett Pass,Iran,825.22,PayPal,4655.63
+548,549,549,2017-11-10,Entregue,2010-02-25,03 Lerdahl Park,Ukraine,467.24,Cartão de Crédito,4831.24
+549,550,550,2011-08-14,Enviado ao Cliente,2012-08-01,08 Marquette Terrace,Portugal,312.03,Cartão de Crédito,1559.09
+550,551,551,2020-03-03,Entregue,2017-02-06,72 Forest Dale Terrace,Indonesia,362.89,Pago na Entrega,3463.33
+551,552,552,2020-07-29,Em Processamento,2022-12-23,614 Garrison Street,Paraguay,667.39,Pago na Entrega,5793.44
+552,553,553,2021-04-20,Entregue,2021-11-02,604 Burning Wood Junction,Portugal,708.53,Cartão de Crédito,3329.61
+553,554,554,2010-06-05,Enviado ao Cliente,2016-01-07,79 Heath Way,France,560.55,Cartão de Crédito,7304.79
+554,555,555,2014-04-09,Pendente,2017-02-06,290 South Junction,France,244.45,PayPal,9448.97
+555,556,556,2014-09-15,Entregue,2018-01-13,2292 Manley Alley,Iran,977.81,Cartão de Crédito,7821.96
+556,557,557,2017-09-13,Enviado ao Cliente,2016-09-13,19037 7th Crossing,Malaysia,75.67,PayPal,346.73
+557,558,558,2015-12-22,Enviado ao Cliente,2019-09-05,311 Dakota Parkway,China,80.55,Cartão de Crédito,7797.3
+558,559,559,2011-10-20,Pendente,2011-02-06,14030 Riverside Way,Ukraine,895.95,PayPal,1167.09
+559,560,560,2016-09-28,Enviado ao Cliente,2013-07-09,40767 Sunnyside Lane,Finland,811.58,Pago na Entrega,7274.38
+560,561,561,2019-02-22,Entregue,2014-01-15,081 Roxbury Drive,Haiti,236.01,Pago na Entrega,1418.97
+561,562,562,2019-04-18,Pendente,2011-01-17,032 West Drive,China,741.65,Pago na Entrega,3550.05
+562,563,563,2020-10-28,Em Processamento,2019-02-12,93 Fuller Avenue,Philippines,997.29,Pago na Entrega,7194.03
+563,564,564,2021-07-02,Pendente,2021-06-19,25212 Warner Avenue,China,847.34,PayPal,1777.88
+564,565,565,2014-07-24,Pendente,2010-03-06,97 Lakewood Pass,Slovenia,657.7,PayPal,6045.36
+565,566,566,2014-01-16,Em Processamento,2013-01-03,07 Mcguire Drive,Peru,712.06,Pago na Entrega,5819.6
+566,567,567,2022-03-31,Em Processamento,2010-08-04,310 Lawn Crossing,Russia,447.9,PayPal,7703.16
+567,568,568,2010-09-25,Entregue,2010-05-31,81143 Kim Park,Colombia,193.52,PayPal,3625.12
+568,569,569,2020-11-22,Enviado ao Cliente,2010-12-07,8 Graedel Hill,Czech Republic,935.16,Cartão de Crédito,3511.65
+569,570,570,2014-08-15,Em Processamento,2010-11-26,7127 Dapin Center,France,918.7,PayPal,3840.15
+570,571,571,2014-12-29,Em Processamento,2022-06-04,734 Division Hill,Philippines,674.1,Cartão de Crédito,4284.9
+571,572,572,2013-06-07,Entregue,2013-05-30,4 Monterey Junction,China,694.19,PayPal,9891.42
+572,573,573,2020-04-20,Em Processamento,2011-06-05,6 Doe Crossing Plaza,United States,352.56,Pago na Entrega,4076.17
+573,574,574,2017-08-04,Pendente,2022-08-03,22169 Beilfuss Terrace,Armenia,143.73,Cartão de Crédito,4680.05
+574,575,575,2012-12-14,Pendente,2016-12-04,5014 Riverside Hill,France,962.22,Cartão de Crédito,1376.0
+575,576,576,2018-12-20,Pendente,2015-04-04,61905 Transport Plaza,Sri Lanka,508.69,Cartão de Crédito,246.32
+576,577,577,2014-10-27,Enviado ao Cliente,2016-12-22,0 Donald Junction,Greece,118.56,Pago na Entrega,224.0
+577,578,578,2018-09-13,Em Processamento,2021-01-11,4 Scott Circle,Ukraine,26.19,PayPal,1732.01
+578,579,579,2020-08-09,Enviado ao Cliente,2018-02-02,68 Badeau Terrace,China,351.3,PayPal,5086.89
+579,580,580,2018-02-04,Enviado ao Cliente,2022-05-12,2913 Summer Ridge Junction,Mauritius,940.95,Pago na Entrega,5582.94
+580,581,581,2012-08-29,Pendente,2010-06-14,609 Knutson Circle,China,831.17,PayPal,8639.93
+581,582,582,2015-12-20,Em Processamento,2012-06-01,2044 Towne Court,China,431.79,PayPal,6601.4
+582,583,583,2022-10-18,Pendente,2017-06-03,8455 Pine View Drive,Nicaragua,807.02,Cartão de Crédito,7185.13
+583,584,584,2015-04-25,Pendente,2016-03-21,87 Eliot Lane,China,850.22,Cartão de Crédito,8747.21
+584,585,585,2019-04-14,Pendente,2018-09-15,8 Forest Lane,Brazil,209.24,PayPal,1800.84
+585,586,586,2010-10-01,Entregue,2016-03-25,579 Kim Point,Kazakhstan,642.88,PayPal,4274.11
+586,587,587,2020-11-02,Enviado ao Cliente,2012-04-25,27 Schlimgen Center,Philippines,43.08,Pago na Entrega,86.33
+587,588,588,2018-07-16,Enviado ao Cliente,2013-11-22,33499 Harbort Place,Indonesia,503.1,Pago na Entrega,7087.7
+588,589,589,2020-09-18,Pendente,2019-10-04,71 Huxley Pass,Ireland,193.72,Pago na Entrega,1305.08
+589,590,590,2011-05-01,Em Processamento,2019-06-30,1830 Moose Lane,Indonesia,597.75,Cartão de Crédito,5810.53
+590,591,591,2022-11-01,Enviado ao Cliente,2014-06-23,3 Tony Avenue,China,935.39,Cartão de Crédito,2092.01
+591,592,592,2021-11-24,Entregue,2016-05-04,2 Burrows Drive,Indonesia,108.67,Cartão de Crédito,9693.52
+592,593,593,2010-02-25,Em Processamento,2022-08-04,495 7th Place,United States,811.88,Cartão de Crédito,6609.67
+593,594,594,2012-11-19,Enviado ao Cliente,2020-11-26,75610 Fulton Place,Brazil,827.05,Pago na Entrega,7602.03
+594,595,595,2013-09-22,Pendente,2015-11-27,3939 Bluejay Point,Poland,713.49,Pago na Entrega,810.61
+595,596,596,2016-03-10,Entregue,2017-11-03,81085 Florence Plaza,Sweden,870.77,PayPal,862.61
+596,597,597,2017-03-04,Pendente,2010-08-15,44 Crest Line Crossing,Albania,198.52,PayPal,733.34
+597,598,598,2014-07-24,Em Processamento,2021-06-08,37430 Anthes Crossing,Yemen,173.98,Cartão de Crédito,2858.32
+598,599,599,2022-11-14,Pendente,2016-12-11,3923 Lawn Parkway,Germany,209.46,PayPal,4948.23
+599,600,600,2018-09-06,Pendente,2022-10-09,493 Vermont Junction,Argentina,412.95,Pago na Entrega,203.45
+600,601,601,2018-02-22,Pendente,2020-06-03,48456 Surrey Trail,Indonesia,823.39,Cartão de Crédito,2459.42
+601,602,602,2012-05-23,Em Processamento,2019-04-28,4 La Follette Avenue,Indonesia,6.84,PayPal,7536.21
+602,603,603,2015-08-19,Pendente,2013-08-16,67981 Kennedy Avenue,Mexico,220.0,Pago na Entrega,2776.18
+603,604,604,2011-10-05,Pendente,2018-06-03,8688 Memorial Center,Iran,406.72,Cartão de Crédito,4948.12
+604,605,605,2015-01-03,Entregue,2016-05-14,407 Havey Avenue,China,825.79,Cartão de Crédito,1740.12
+605,606,606,2022-10-18,Entregue,2016-07-07,5610 Pearson Center,Georgia,456.91,PayPal,1398.14
+606,607,607,2015-09-06,Enviado ao Cliente,2010-06-05,278 Doe Crossing Junction,Japan,536.13,PayPal,6822.87
+607,608,608,2010-02-27,Enviado ao Cliente,2017-03-03,33 Fair Oaks Point,China,627.59,Cartão de Crédito,1193.72
+608,609,609,2012-10-02,Pendente,2010-01-08,182 Waywood Alley,Brazil,558.99,PayPal,9100.29
+609,610,610,2013-02-01,Pendente,2010-08-07,58 Autumn Leaf Alley,China,734.1,PayPal,3490.41
+610,611,611,2012-02-09,Enviado ao Cliente,2021-06-06,55962 Vidon Circle,Tunisia,382.74,Cartão de Crédito,2737.47
+611,612,612,2017-04-11,Pendente,2012-04-07,1 Eliot Lane,China,659.46,PayPal,6718.55
+612,613,613,2010-01-18,Enviado ao Cliente,2014-03-20,27 Amoth Alley,Brazil,863.26,PayPal,5444.41
+613,614,614,2022-04-08,Enviado ao Cliente,2017-03-17,523 Meadow Ridge Place,Brazil,542.2,PayPal,177.03
+614,615,615,2017-01-25,Em Processamento,2017-05-16,340 Washington Terrace,China,903.33,Pago na Entrega,1198.96
+615,616,616,2018-11-12,Enviado ao Cliente,2018-08-26,2 Vermont Lane,Colombia,877.83,PayPal,2067.11
+616,617,617,2012-07-20,Pendente,2020-10-16,947 Petterle Pass,Georgia,301.91,PayPal,5243.21
+617,618,618,2022-10-12,Em Processamento,2015-03-25,697 7th Parkway,Indonesia,121.63,Pago na Entrega,1124.12
+618,619,619,2014-07-07,Pendente,2016-11-14,80 Cottonwood Point,Norway,331.9,PayPal,2307.6
+619,620,620,2016-02-15,Enviado ao Cliente,2010-07-23,5 Chinook Trail,Palestinian Territory,376.26,Cartão de Crédito,7973.38
+620,621,621,2021-03-19,Pendente,2017-05-20,88365 Elmside Hill,China,842.88,PayPal,8186.51
+621,622,622,2022-07-02,Em Processamento,2014-07-12,0 Bunker Hill Court,Dominican Republic,22.41,Cartão de Crédito,3966.54
+622,623,623,2020-03-05,Pendente,2020-03-06,6718 Red Cloud Drive,Russia,203.4,Cartão de Crédito,4943.81
+623,624,624,2020-11-13,Pendente,2010-05-25,3 Park Meadow Park,Poland,914.67,Cartão de Crédito,3912.31
+624,625,625,2016-07-16,Entregue,2019-12-30,0 Center Avenue,France,489.39,Pago na Entrega,3349.12
+625,626,626,2012-09-10,Enviado ao Cliente,2022-08-24,8 Union Court,Brazil,703.39,Cartão de Crédito,9930.55
+626,627,627,2013-05-28,Em Processamento,2018-03-06,34760 Tennyson Park,South Africa,71.39,Cartão de Crédito,8560.4
+627,628,628,2013-03-02,Pendente,2013-12-22,2060 Menomonie Way,Sweden,473.26,Pago na Entrega,7087.41
+628,629,629,2018-06-28,Entregue,2011-12-03,4120 Lillian Road,Japan,443.91,Cartão de Crédito,4586.78
+629,630,630,2015-11-06,Enviado ao Cliente,2013-08-24,1 Doe Crossing Avenue,Samoa,541.25,PayPal,2047.34
+630,631,631,2021-05-03,Entregue,2016-06-04,465 Sauthoff Place,United States,398.12,Cartão de Crédito,8307.14
+631,632,632,2017-01-29,Entregue,2013-06-19,5407 Summerview Center,Japan,108.3,PayPal,6832.29
+632,633,633,2015-07-20,Em Processamento,2022-07-26,4644 Lien Way,Nigeria,308.3,PayPal,3485.94
+633,634,634,2014-03-31,Enviado ao Cliente,2020-03-22,00073 Everett Junction,Philippines,916.67,Pago na Entrega,1160.35
+634,635,635,2013-04-17,Pendente,2022-06-29,8 Mosinee Way,Indonesia,7.79,Cartão de Crédito,7833.05
+635,636,636,2019-05-10,Entregue,2014-12-12,0883 Scott Drive,Thailand,708.33,PayPal,6662.55
+636,637,637,2020-08-16,Em Processamento,2020-03-23,0 Fairview Lane,Indonesia,319.1,PayPal,6877.73
+637,638,638,2021-09-16,Em Processamento,2011-02-13,9 Hermina Park,Morocco,981.27,Cartão de Crédito,8880.65
+638,639,639,2018-11-01,Pendente,2018-06-11,32 Manley Hill,Palestinian Territory,36.79,PayPal,575.95
+639,640,640,2013-01-01,Enviado ao Cliente,2020-12-15,1 Service Alley,China,336.94,Cartão de Crédito,5814.24
+640,641,641,2019-01-20,Entregue,2012-12-10,3203 Moose Way,Spain,217.46,PayPal,9444.32
+641,642,642,2011-02-05,Enviado ao Cliente,2010-04-12,6189 Thackeray Way,China,251.73,Pago na Entrega,8445.69
+642,643,643,2012-03-14,Enviado ao Cliente,2019-07-17,25505 Ruskin Trail,Indonesia,610.55,Cartão de Crédito,2154.23
+643,644,644,2020-08-08,Pendente,2020-12-08,84563 Barnett Plaza,China,928.86,Cartão de Crédito,7125.71
+644,645,645,2013-12-14,Em Processamento,2013-11-25,7 Spohn Place,Croatia,311.61,Pago na Entrega,1275.31
+645,646,646,2019-09-23,Enviado ao Cliente,2021-04-22,9 Pawling Alley,Brazil,210.04,Cartão de Crédito,3429.82
+646,647,647,2011-10-29,Enviado ao Cliente,2018-08-11,14 Fulton Lane,Greece,296.01,Cartão de Crédito,8463.08
+647,648,648,2011-12-15,Em Processamento,2015-01-19,1 Canary Lane,Kyrgyzstan,771.62,Cartão de Crédito,5810.63
+648,649,649,2010-11-12,Pendente,2015-09-06,21 Granby Park,China,209.12,PayPal,140.12
+649,650,650,2010-01-18,Entregue,2010-12-07,66628 Schurz Hill,China,624.58,Cartão de Crédito,3397.38
+650,651,651,2020-04-20,Enviado ao Cliente,2015-07-06,417 Bellgrove Plaza,Portugal,549.73,Cartão de Crédito,527.51
+651,652,652,2011-06-25,Pendente,2016-11-21,26 Village Green Avenue,France,306.28,Cartão de Crédito,6540.94
+652,653,653,2010-02-27,Em Processamento,2022-12-06,329 Marcy Park,Indonesia,839.68,PayPal,4968.81
+653,654,654,2019-02-11,Entregue,2020-05-11,5 Village Trail,China,665.55,Pago na Entrega,8291.58
+654,655,655,2011-06-03,Em Processamento,2015-08-11,2456 Roth Way,Serbia,890.78,Cartão de Crédito,2554.63
+655,656,656,2019-05-01,Entregue,2012-11-29,242 Myrtle Way,Saudi Arabia,451.07,PayPal,1800.64
+656,657,657,2018-10-07,Em Processamento,2012-02-05,84 Warrior Circle,Argentina,960.96,Cartão de Crédito,8088.53
+657,658,658,2013-06-17,Entregue,2018-01-14,643 Sunbrook Avenue,Indonesia,491.89,PayPal,9107.06
+658,659,659,2022-05-12,Entregue,2014-02-20,8754 Walton Court,Zambia,407.43,PayPal,1270.1
+659,660,660,2019-08-02,Em Processamento,2022-06-21,91042 Golf View Road,China,367.56,Pago na Entrega,3256.57
+660,661,661,2021-07-15,Em Processamento,2018-06-29,7494 Stoughton Parkway,Macedonia,808.58,Cartão de Crédito,9320.77
+661,662,662,2018-06-30,Em Processamento,2013-05-28,86744 Bluestem Avenue,Russia,129.89,Pago na Entrega,1666.45
+662,663,663,2016-11-02,Enviado ao Cliente,2017-10-29,84059 Rusk Court,Indonesia,697.21,PayPal,6944.4
+663,664,664,2018-06-01,Em Processamento,2010-01-08,640 Miller Point,Russia,365.3,PayPal,4843.69
+664,665,665,2019-06-25,Pendente,2015-12-03,74 Golf View Crossing,China,212.67,Pago na Entrega,5413.26
+665,666,666,2010-09-10,Pendente,2010-04-29,104 Park Meadow Parkway,Indonesia,845.39,PayPal,527.16
+666,667,667,2017-07-22,Enviado ao Cliente,2022-12-19,3 Truax Avenue,Sweden,718.54,PayPal,5018.96
+667,668,668,2021-06-04,Enviado ao Cliente,2018-06-24,4 Artisan Center,Belarus,392.52,Pago na Entrega,7746.55
+668,669,669,2020-03-25,Pendente,2017-03-15,1 Mallory Way,Poland,515.93,Cartão de Crédito,7672.55
+669,670,670,2015-02-20,Pendente,2014-09-09,0 Glendale Street,Poland,741.72,Cartão de Crédito,8350.08
+670,671,671,2011-12-04,Entregue,2017-04-22,064 Melody Road,Czech Republic,940.31,PayPal,7965.57
+671,672,672,2013-06-02,Entregue,2016-12-22,4 Darwin Point,Colombia,461.81,Cartão de Crédito,2556.33
+672,673,673,2016-10-21,Em Processamento,2022-06-29,9596 Rowland Drive,China,613.11,Pago na Entrega,8546.2
+673,674,674,2017-09-18,Entregue,2010-10-19,57 Paget Junction,China,309.09,Pago na Entrega,5501.24
+674,675,675,2013-08-09,Entregue,2015-03-09,80317 Bellgrove Circle,Bulgaria,434.01,PayPal,8878.05
+675,676,676,2015-10-10,Entregue,2017-06-25,70 Sherman Drive,Egypt,857.01,Pago na Entrega,8094.81
+676,677,677,2010-01-19,Entregue,2016-10-15,5 Dahle Road,Indonesia,764.54,PayPal,5822.96
+677,678,678,2018-06-24,Pendente,2012-03-02,73917 Basil Street,Indonesia,532.9,Pago na Entrega,9865.0
+678,679,679,2020-11-10,Pendente,2018-10-21,57 Mccormick Street,Kazakhstan,395.41,PayPal,2146.95
+679,680,680,2012-03-26,Pendente,2015-10-26,319 Bartelt Plaza,Peru,952.84,Pago na Entrega,1712.58
+680,681,681,2021-05-09,Enviado ao Cliente,2014-06-22,185 Reinke Terrace,Honduras,769.51,Cartão de Crédito,2241.56
+681,682,682,2017-07-02,Pendente,2010-07-15,2 Manley Place,Indonesia,990.47,PayPal,2611.42
+682,683,683,2020-09-12,Enviado ao Cliente,2015-08-15,0 Tennessee Plaza,Indonesia,321.04,Cartão de Crédito,2231.74
+683,684,684,2020-01-16,Enviado ao Cliente,2010-10-13,251 Orin Circle,Poland,290.43,Cartão de Crédito,6414.98
+684,685,685,2014-06-12,Enviado ao Cliente,2014-07-06,362 Bartillon Place,Peru,593.92,Pago na Entrega,7669.93
+685,686,686,2020-05-06,Em Processamento,2013-02-08,761 Forest Run Court,Greece,267.36,Cartão de Crédito,2369.69
+686,687,687,2015-12-10,Enviado ao Cliente,2012-06-03,9397 Hovde Circle,Philippines,190.27,Cartão de Crédito,3149.22
+687,688,688,2018-12-11,Pendente,2020-10-29,061 Bellgrove Junction,Poland,239.41,Pago na Entrega,2118.51
+688,689,689,2021-03-14,Entregue,2021-05-19,45 Ronald Regan Court,France,509.15,PayPal,1529.32
+689,690,690,2011-03-27,Em Processamento,2017-02-05,5315 Schiller Pass,Pakistan,367.63,Pago na Entrega,4746.96
+690,691,691,2018-03-15,Pendente,2012-02-07,9549 Fordem Plaza,France,786.14,Cartão de Crédito,1380.85
+691,692,692,2011-06-20,Pendente,2016-03-01,34 Shelley Center,China,411.4,Cartão de Crédito,7722.59
+692,693,693,2011-08-05,Pendente,2021-03-28,394 Ridge Oak Way,Poland,813.63,Pago na Entrega,2607.95
+693,694,694,2021-04-04,Entregue,2016-02-01,13993 Kipling Place,Armenia,905.68,PayPal,2401.88
+694,695,695,2019-05-13,Enviado ao Cliente,2017-05-08,69 5th Court,Poland,914.5,PayPal,6640.63
+695,696,696,2015-01-21,Em Processamento,2020-09-18,07 Mayfield Place,Portugal,324.16,Pago na Entrega,6618.95
+696,697,697,2018-03-16,Entregue,2020-10-14,9090 Darwin Drive,Canada,752.47,PayPal,5830.28
+697,698,698,2011-12-31,Pendente,2010-07-21,84028 Gulseth Way,Indonesia,964.34,Cartão de Crédito,2015.91
+698,699,699,2020-09-01,Pendente,2011-07-12,7082 Merrick Way,Norway,526.74,PayPal,8824.1
+699,700,700,2022-06-12,Em Processamento,2019-06-23,4813 Lakewood Drive,China,182.75,PayPal,6676.84
+700,701,701,2011-08-30,Em Processamento,2019-06-07,461 Gale Pass,Brazil,265.46,PayPal,757.72
+701,702,702,2014-04-11,Entregue,2012-06-12,4 Melrose Street,Ukraine,667.9,Cartão de Crédito,4808.07
+702,703,703,2015-08-16,Entregue,2021-05-22,50 Trailsway Park,Yemen,155.67,PayPal,3920.25
+703,704,704,2021-12-24,Pendente,2021-02-25,4 Grayhawk Junction,Indonesia,906.07,PayPal,3809.07
+704,705,705,2015-05-10,Pendente,2016-01-31,6 Debra Pass,France,391.12,PayPal,9832.91
+705,706,706,2012-03-12,Em Processamento,2017-08-09,45 Laurel Lane,Indonesia,29.41,Cartão de Crédito,2106.62
+706,707,707,2011-06-06,Enviado ao Cliente,2013-01-01,24124 Hauk Street,China,942.47,PayPal,8787.89
+707,708,708,2013-05-24,Entregue,2021-01-30,3 Orin Alley,Russia,901.24,Cartão de Crédito,7021.1
+708,709,709,2013-07-08,Pendente,2015-09-06,4163 Iowa Way,Albania,699.7,Cartão de Crédito,6342.48
+709,710,710,2016-06-13,Em Processamento,2020-05-09,1719 Fordem Plaza,China,567.06,PayPal,970.46
+710,711,711,2012-06-24,Enviado ao Cliente,2019-10-14,17 Kennedy Street,Russia,533.94,Pago na Entrega,66.19
+711,712,712,2018-07-07,Enviado ao Cliente,2016-08-22,08 Tennessee Drive,Ukraine,65.09,Pago na Entrega,2238.38
+712,713,713,2010-11-15,Em Processamento,2021-08-04,1471 Eagle Crest Point,China,521.44,Cartão de Crédito,1251.14
+713,714,714,2014-11-27,Em Processamento,2015-10-26,0143 Northland Court,China,658.79,Cartão de Crédito,6483.74
+714,715,715,2015-01-26,Pendente,2012-05-14,945 Cody Hill,China,675.19,Cartão de Crédito,5770.85
+715,716,716,2022-12-17,Pendente,2020-03-25,3059 Dwight Park,Philippines,252.88,Cartão de Crédito,1260.43
+716,717,717,2020-02-29,Entregue,2014-09-22,195 Burrows Circle,Mexico,75.35,Cartão de Crédito,2351.84
+717,718,718,2016-12-10,Pendente,2022-02-14,4192 Annamark Avenue,Philippines,380.85,Cartão de Crédito,1979.77
+718,719,719,2019-01-17,Pendente,2014-07-09,7683 Sage Terrace,Aland Islands,409.63,Pago na Entrega,4944.52
+719,720,720,2018-05-02,Entregue,2010-09-08,45 Paget Crossing,Madagascar,775.52,Cartão de Crédito,5039.02
+720,721,721,2010-11-30,Em Processamento,2017-04-28,08 Fisk Plaza,Honduras,463.03,PayPal,6878.82
+721,722,722,2015-09-03,Em Processamento,2021-10-24,04 Beilfuss Alley,Malta,393.78,Cartão de Crédito,9979.46
+722,723,723,2020-01-27,Em Processamento,2011-03-20,779 Burrows Pass,Afghanistan,522.84,Cartão de Crédito,4860.84
+723,724,724,2017-09-10,Pendente,2011-08-02,50592 Kenwood Center,China,552.03,Pago na Entrega,7664.22
+724,725,725,2021-11-25,Em Processamento,2011-03-31,3 Magdeline Parkway,France,857.7,PayPal,3981.07
+725,726,726,2011-09-06,Em Processamento,2018-01-22,39 Helena Junction,Morocco,249.23,Pago na Entrega,4502.33
+726,727,727,2017-09-27,Enviado ao Cliente,2015-01-20,5 Loftsgordon Avenue,China,209.12,PayPal,1872.76
+727,728,728,2015-08-07,Pendente,2012-01-24,2 Quincy Plaza,Ethiopia,753.59,PayPal,5563.64
+728,729,729,2015-02-09,Em Processamento,2015-04-22,1 Scott Drive,Philippines,97.14,PayPal,3154.07
+729,730,730,2012-02-14,Entregue,2013-06-28,94 Moulton Terrace,Indonesia,396.61,PayPal,2568.28
+730,731,731,2010-01-26,Entregue,2011-12-23,9 Monterey Pass,Indonesia,429.03,Pago na Entrega,8019.55
+731,732,732,2015-05-03,Entregue,2022-08-28,82 Sunfield Park,Afghanistan,209.22,Cartão de Crédito,544.23
+732,733,733,2021-11-03,Pendente,2015-01-18,8300 Division Junction,China,372.22,PayPal,896.63
+733,734,734,2017-01-21,Enviado ao Cliente,2021-12-28,4 Shopko Center,Brazil,177.9,Pago na Entrega,3710.37
+734,735,735,2017-12-19,Em Processamento,2012-02-01,740 Old Gate Way,Brazil,841.92,Pago na Entrega,1901.0
+735,736,736,2014-11-29,Enviado ao Cliente,2018-12-10,3 Warrior Park,Uruguay,487.43,Cartão de Crédito,5544.23
+736,737,737,2019-03-01,Enviado ao Cliente,2022-05-03,33945 Russell Park,Kuwait,642.04,Cartão de Crédito,1944.64
+737,738,738,2011-05-08,Em Processamento,2014-06-02,69914 Nelson Street,Canada,810.84,Cartão de Crédito,7616.12
+738,739,739,2017-12-19,Em Processamento,2012-12-21,600 Lakewood Point,United States,266.21,Pago na Entrega,573.11
+739,740,740,2014-02-25,Enviado ao Cliente,2012-05-09,525 Hallows Trail,China,377.22,Cartão de Crédito,3802.64
+740,741,741,2012-07-23,Entregue,2011-04-10,0092 Sage Road,Czech Republic,529.72,Pago na Entrega,3410.96
+741,742,742,2013-02-21,Em Processamento,2011-08-10,9287 Menomonie Place,Sweden,428.35,Pago na Entrega,1041.63
+742,743,743,2010-07-06,Enviado ao Cliente,2010-01-22,54 Melrose Point,Brazil,139.46,Cartão de Crédito,7662.96
+743,744,744,2010-11-15,Em Processamento,2018-11-09,72712 Alpine Drive,Haiti,271.6,Cartão de Crédito,4008.76
+744,745,745,2013-07-08,Pendente,2011-07-08,84751 Elmside Terrace,Poland,180.98,PayPal,6605.34
+745,746,746,2014-03-11,Enviado ao Cliente,2013-02-21,15 Garrison Center,Honduras,485.58,Cartão de Crédito,2631.04
+746,747,747,2011-12-07,Enviado ao Cliente,2017-04-05,38295 Transport Road,Tunisia,162.6,Cartão de Crédito,6515.34
+747,748,748,2011-03-09,Enviado ao Cliente,2013-04-08,33146 Barby Road,Russia,676.42,Cartão de Crédito,9676.46
+748,749,749,2016-09-01,Entregue,2021-11-13,948 Dottie Road,Montenegro,513.57,Cartão de Crédito,8216.71
+749,750,750,2010-05-10,Em Processamento,2010-02-01,00175 Bunker Hill Way,Russia,483.54,Pago na Entrega,6580.43
+750,751,751,2011-05-05,Entregue,2019-03-20,75185 Bobwhite Street,Brazil,16.79,PayPal,1424.94
+751,752,752,2018-02-17,Pendente,2015-08-13,4 6th Drive,Sweden,251.64,PayPal,5968.01
+752,753,753,2011-06-12,Pendente,2022-08-19,44773 Daystar Center,United States,898.09,PayPal,7695.25
+753,754,754,2015-12-03,Em Processamento,2018-06-23,8 Kings Road,China,468.61,Pago na Entrega,111.51
+754,755,755,2017-08-31,Enviado ao Cliente,2019-11-11,2941 Moulton Way,Netherlands,954.52,PayPal,6933.48
+755,756,756,2016-07-16,Enviado ao Cliente,2017-05-19,6065 Rowland Way,China,573.05,Pago na Entrega,4710.18
+756,757,757,2010-06-16,Enviado ao Cliente,2019-01-30,652 Forest Pass,China,34.3,Pago na Entrega,1872.26
+757,758,758,2020-09-18,Entregue,2017-12-31,152 Brickson Park Avenue,Paraguay,491.89,PayPal,2266.03
+758,759,759,2011-08-10,Pendente,2016-06-07,4697 Donald Alley,Brazil,660.28,PayPal,9731.2
+759,760,760,2014-12-04,Pendente,2010-08-24,40875 Lien Avenue,Russia,52.51,PayPal,6017.95
+760,761,761,2016-08-25,Pendente,2022-10-09,8524 Paget Junction,France,491.02,PayPal,2021.8
+761,762,762,2019-03-04,Pendente,2015-07-28,1672 Lotheville Point,Colombia,154.89,Pago na Entrega,3031.49
+762,763,763,2019-05-11,Pendente,2014-06-16,150 Melrose Street,Indonesia,831.36,PayPal,6885.94
+763,764,764,2015-05-19,Em Processamento,2022-09-10,12 Rigney Parkway,Brazil,394.16,PayPal,2254.11
+764,765,765,2019-09-13,Pendente,2013-10-12,034 Quincy Circle,South Africa,527.02,PayPal,5432.95
+765,766,766,2014-09-03,Enviado ao Cliente,2020-07-20,0683 Norway Maple Place,Kazakhstan,645.56,Cartão de Crédito,8614.79
+766,767,767,2019-03-01,Em Processamento,2022-11-21,56038 Brown Street,Jamaica,735.13,Pago na Entrega,7052.38
+767,768,768,2019-03-31,Enviado ao Cliente,2017-05-05,61 Meadow Ridge Avenue,Palestinian Territory,432.1,PayPal,838.21
+768,769,769,2015-03-02,Em Processamento,2018-07-06,252 Bunker Hill Point,China,800.15,Pago na Entrega,240.81
+769,770,770,2016-03-31,Entregue,2010-06-30,537 Carey Parkway,China,11.75,Cartão de Crédito,3065.07
+770,771,771,2021-07-18,Enviado ao Cliente,2013-05-05,42 Birchwood Parkway,Philippines,656.85,PayPal,3254.19
+771,772,772,2020-03-14,Pendente,2017-09-24,39700 Delaware Way,Serbia,735.13,Pago na Entrega,2165.66
+772,773,773,2010-07-29,Enviado ao Cliente,2020-01-02,2906 Butternut Court,Portugal,760.36,Cartão de Crédito,2872.56
+773,774,774,2011-07-30,Pendente,2010-06-24,57 Clove Terrace,Brazil,125.77,PayPal,1595.54
+774,775,775,2015-03-22,Em Processamento,2015-08-13,5 Bartillon Center,Sweden,512.05,Cartão de Crédito,5389.09
+775,776,776,2017-07-29,Entregue,2013-07-20,159 David Center,Mexico,306.1,Cartão de Crédito,4510.25
+776,777,777,2019-02-08,Entregue,2017-05-08,414 Homewood Street,China,773.03,Pago na Entrega,7878.09
+777,778,778,2018-01-22,Enviado ao Cliente,2012-10-17,77810 Rockefeller Point,Portugal,679.4,Pago na Entrega,1342.19
+778,779,779,2021-07-31,Enviado ao Cliente,2011-11-21,17002 Brickson Park Place,Brazil,392.04,PayPal,566.67
+779,780,780,2016-03-19,Pendente,2018-11-27,554 Jenifer Hill,Indonesia,840.21,Cartão de Crédito,5064.96
+780,781,781,2018-08-01,Enviado ao Cliente,2021-02-15,177 Portage Center,China,698.42,Pago na Entrega,6625.19
+781,782,782,2019-07-09,Enviado ao Cliente,2013-09-20,69 Chinook Plaza,Portugal,360.86,Pago na Entrega,3578.45
+782,783,783,2012-12-26,Em Processamento,2011-04-16,14 Doe Crossing Pass,Bahamas,940.64,Pago na Entrega,7798.6
+783,784,784,2022-10-22,Em Processamento,2018-01-14,58959 Arrowood Place,United States,393.91,PayPal,682.63
+784,785,785,2018-02-24,Enviado ao Cliente,2019-02-14,81 Holmberg Lane,China,316.95,PayPal,6080.76
+785,786,786,2013-10-15,Pendente,2010-08-23,8 Butterfield Avenue,China,484.28,Pago na Entrega,1221.66
+786,787,787,2020-05-01,Enviado ao Cliente,2018-05-12,078 Hooker Road,Spain,937.02,Pago na Entrega,331.7
+787,788,788,2018-06-13,Pendente,2021-08-03,9588 Hoepker Hill,Philippines,531.86,Cartão de Crédito,4066.19
+788,789,789,2020-03-26,Pendente,2021-07-04,794 Dottie Court,Zimbabwe,951.02,Cartão de Crédito,4667.38
+789,790,790,2013-10-15,Pendente,2013-12-19,4 Esker Alley,Indonesia,361.73,PayPal,4380.1
+790,791,791,2017-07-23,Em Processamento,2014-01-20,5 Blackbird Trail,Netherlands,708.13,Pago na Entrega,173.69
+791,792,792,2014-10-28,Pendente,2019-07-03,980 Drewry Way,Cyprus,98.44,Pago na Entrega,5509.88
+792,793,793,2022-12-11,Enviado ao Cliente,2012-02-15,63703 Clove Point,China,634.19,Cartão de Crédito,5683.9
+793,794,794,2016-02-29,Entregue,2020-06-07,598 Hanover Circle,Poland,155.06,PayPal,5599.57
+794,795,795,2022-05-17,Enviado ao Cliente,2010-10-27,7 Ridge Oak Place,Brazil,388.14,PayPal,7627.49
+795,796,796,2014-02-26,Em Processamento,2012-06-17,427 Comanche Court,Colombia,173.59,PayPal,8188.08
+796,797,797,2011-08-21,Pendente,2015-12-17,4 Anthes Circle,Argentina,407.6,Pago na Entrega,8509.92
+797,798,798,2013-06-18,Em Processamento,2020-02-08,287 Northwestern Plaza,Uganda,450.4,Pago na Entrega,8164.8
+798,799,799,2016-07-21,Pendente,2022-01-02,95183 Kim Center,United States,188.49,Cartão de Crédito,8751.33
+799,800,800,2015-10-18,Entregue,2018-03-20,362 Shopko Terrace,Colombia,113.77,PayPal,7357.68
+800,801,801,2021-01-01,Pendente,2014-09-20,2553 Stuart Circle,Iran,923.55,Cartão de Crédito,1343.22
+801,802,802,2014-04-28,Entregue,2021-04-12,18259 Calypso Alley,China,936.41,Pago na Entrega,2440.41
+802,803,803,2010-01-18,Entregue,2019-09-17,392 Drewry Lane,Colombia,755.3,PayPal,8902.2
+803,804,804,2019-09-05,Entregue,2018-10-02,2 Bay Street,Japan,910.49,PayPal,4454.82
+804,805,805,2013-10-06,Enviado ao Cliente,2014-02-17,612 Pepper Wood Way,Peru,601.29,Cartão de Crédito,7230.11
+805,806,806,2022-04-15,Pendente,2018-01-29,4 5th Parkway,Indonesia,159.89,Pago na Entrega,9029.36
+806,807,807,2014-06-12,Entregue,2021-12-07,4887 Mockingbird Place,Mongolia,43.53,Cartão de Crédito,6298.86
+807,808,808,2020-03-14,Entregue,2017-08-20,13728 Algoma Park,Kyrgyzstan,537.59,Cartão de Crédito,148.15
+808,809,809,2016-09-29,Em Processamento,2021-08-07,4 Kennedy Trail,Poland,303.39,PayPal,5588.85
+809,810,810,2020-05-01,Entregue,2021-03-20,21 Lakewood Lane,Philippines,889.36,Cartão de Crédito,9175.33
+810,811,811,2012-09-06,Enviado ao Cliente,2021-05-21,5054 Glacier Hill Center,Trinidad and Tobago,428.3,PayPal,5094.62
+811,812,812,2014-09-26,Em Processamento,2021-05-15,11163 Maple Wood Drive,North Korea,744.79,Pago na Entrega,4340.95
+812,813,813,2010-09-29,Pendente,2017-03-15,94441 Pleasure Center,Sweden,858.55,Cartão de Crédito,4308.78
+813,814,814,2011-05-18,Enviado ao Cliente,2013-02-27,4949 Kipling Center,Portugal,659.69,Cartão de Crédito,8778.69
+814,815,815,2019-01-21,Em Processamento,2020-03-18,65672 Norway Maple Way,Indonesia,944.65,Cartão de Crédito,4880.8
+815,816,816,2019-07-23,Pendente,2014-10-05,1 Colorado Junction,China,128.9,Pago na Entrega,6293.06
+816,817,817,2013-09-09,Entregue,2017-06-28,4495 Sheridan Road,Indonesia,422.89,PayPal,1310.63
+817,818,818,2010-03-03,Em Processamento,2020-02-20,4 Hanover Street,Sweden,951.34,Pago na Entrega,712.98
+818,819,819,2017-03-23,Enviado ao Cliente,2015-05-24,97 Victoria Place,Vietnam,92.38,PayPal,7285.94
+819,820,820,2016-03-05,Em Processamento,2016-10-28,18 Tomscot Pass,United Kingdom,870.91,PayPal,2321.93
+820,821,821,2020-06-17,Pendente,2020-02-21,2517 Anthes Court,China,188.96,Pago na Entrega,4995.21
+821,822,822,2022-08-28,Em Processamento,2016-11-13,4 Miller Terrace,Indonesia,265.1,Cartão de Crédito,8846.0
+822,823,823,2021-03-20,Pendente,2010-11-05,2 Hayes Terrace,Pakistan,287.61,Cartão de Crédito,1219.15
+823,824,824,2010-11-17,Em Processamento,2011-02-18,6787 Warner Junction,Dominican Republic,112.29,Cartão de Crédito,8921.15
+824,825,825,2014-01-16,Pendente,2012-04-03,1 Sachtjen Drive,Colombia,501.62,PayPal,4112.53
+825,826,826,2020-03-09,Enviado ao Cliente,2019-12-27,9796 Welch Drive,Yemen,543.03,Pago na Entrega,6786.72
+826,827,827,2013-06-13,Enviado ao Cliente,2013-07-28,77050 Dunning Crossing,Guatemala,28.72,Pago na Entrega,8404.25
+827,828,828,2019-06-16,Entregue,2012-07-23,516 Glacier Hill Drive,Brazil,984.97,Pago na Entrega,931.97
+828,829,829,2020-03-18,Entregue,2022-09-21,51 Artisan Point,France,120.81,PayPal,2630.99
+829,830,830,2020-10-20,Pendente,2012-08-25,313 Sachs Lane,China,560.11,PayPal,777.19
+830,831,831,2014-06-08,Entregue,2020-10-20,03 Union Junction,Yemen,136.94,PayPal,2733.67
+831,832,832,2010-06-16,Pendente,2021-12-22,4 Thompson Place,Guinea,207.56,PayPal,194.74
+832,833,833,2016-02-17,Enviado ao Cliente,2011-04-02,94 6th Trail,Moldova,879.89,PayPal,921.83
+833,834,834,2016-08-06,Enviado ao Cliente,2018-07-24,060 Almo Place,Uganda,202.48,PayPal,2465.49
+834,835,835,2010-03-11,Pendente,2013-09-30,2 Northridge Point,Malaysia,954.98,PayPal,1948.19
+835,836,836,2015-11-02,Em Processamento,2021-03-04,51 Dottie Pass,Russia,720.02,Pago na Entrega,9685.69
+836,837,837,2021-08-22,Entregue,2021-09-23,64 Lindbergh Point,Morocco,75.79,PayPal,4308.27
+837,838,838,2021-01-17,Entregue,2020-08-10,637 Charing Cross Court,Philippines,424.35,Cartão de Crédito,2238.45
+838,839,839,2011-04-23,Entregue,2021-10-13,93292 Coolidge Pass,Greece,282.01,PayPal,8328.73
+839,840,840,2021-10-20,Em Processamento,2020-06-18,5 Sachs Pass,Russia,728.45,Pago na Entrega,4189.13
+840,841,841,2015-05-26,Pendente,2020-09-16,06063 Spenser Center,China,824.16,Pago na Entrega,7330.61
+841,842,842,2012-05-09,Enviado ao Cliente,2021-06-18,07 Upham Way,Indonesia,969.25,Pago na Entrega,5957.32
+842,843,843,2020-11-03,Pendente,2019-09-12,50 Hayes Park,Botswana,247.8,Pago na Entrega,9835.66
+843,844,844,2015-03-02,Em Processamento,2018-09-04,5441 Crownhardt Avenue,China,597.62,PayPal,994.05
+844,845,845,2019-11-25,Pendente,2017-06-16,79035 Ilene Crossing,Serbia,427.85,PayPal,9946.0
+845,846,846,2015-04-09,Entregue,2019-01-08,8 Continental Avenue,Georgia,164.87,Cartão de Crédito,701.52
+846,847,847,2017-08-20,Entregue,2011-09-19,033 Harbort Center,Ivory Coast,227.65,Cartão de Crédito,950.7
+847,848,848,2014-06-09,Entregue,2010-08-13,094 Veith Alley,Bulgaria,452.35,Pago na Entrega,4396.21
+848,849,849,2020-10-06,Pendente,2017-12-04,99 Helena Lane,Guatemala,80.47,PayPal,7477.21
+849,850,850,2021-11-25,Entregue,2019-09-05,990 Fuller Road,Canada,233.24,PayPal,6831.17
+850,851,851,2011-01-27,Enviado ao Cliente,2015-12-30,580 Ronald Regan Alley,Russia,953.11,Pago na Entrega,5343.06
+851,852,852,2021-04-17,Pendente,2013-06-10,741 Shopko Circle,Philippines,274.56,Pago na Entrega,1571.07
+852,853,853,2018-02-26,Entregue,2020-08-26,79882 Russell Lane,Bolivia,400.07,Pago na Entrega,5662.92
+853,854,854,2021-06-30,Pendente,2016-02-08,03369 Buena Vista Junction,Brazil,748.16,Pago na Entrega,9310.82
+854,855,855,2022-11-10,Pendente,2019-10-26,1766 Spohn Alley,Brazil,394.98,Cartão de Crédito,9900.03
+855,856,856,2011-10-14,Pendente,2021-11-11,63381 Meadow Vale Pass,Canada,738.52,Cartão de Crédito,740.09
+856,857,857,2017-01-15,Entregue,2020-06-20,49107 Warner Way,Japan,233.06,Cartão de Crédito,4380.36
+857,858,858,2021-06-25,Enviado ao Cliente,2010-07-28,1945 Superior Court,Albania,846.73,Cartão de Crédito,3207.44
+858,859,859,2018-11-13,Pendente,2020-06-30,76 Evergreen Alley,China,650.21,Pago na Entrega,2109.29
+859,860,860,2012-01-12,Em Processamento,2011-04-03,95 Colorado Pass,South Africa,353.55,Pago na Entrega,8083.66
+860,861,861,2014-11-09,Entregue,2017-03-05,70 Scofield Road,Saudi Arabia,69.05,Pago na Entrega,794.36
+861,862,862,2012-10-30,Entregue,2010-07-02,816 Coleman Center,South Africa,391.13,Pago na Entrega,9773.72
+862,863,863,2010-07-01,Entregue,2016-12-18,90 Shelley Crossing,Sweden,352.05,PayPal,1744.2
+863,864,864,2010-03-11,Enviado ao Cliente,2012-03-17,7 Sherman Drive,Greece,780.01,PayPal,4231.92
+864,865,865,2022-11-16,Entregue,2020-11-22,22 Gulseth Center,Russia,100.95,PayPal,2414.15
+865,866,866,2013-05-24,Entregue,2016-09-20,2722 Golden Leaf Parkway,Dominican Republic,2.26,Cartão de Crédito,740.58
+866,867,867,2015-02-24,Enviado ao Cliente,2013-11-22,238 Artisan Park,Albania,558.05,PayPal,4273.79
+867,868,868,2018-04-11,Em Processamento,2019-10-23,68 Norway Maple Avenue,Colombia,55.05,PayPal,492.42
+868,869,869,2020-04-25,Em Processamento,2014-10-23,890 Buena Vista Circle,Ukraine,638.23,PayPal,7471.85
+869,870,870,2018-06-24,Enviado ao Cliente,2020-06-04,24051 Prentice Court,Argentina,308.01,PayPal,1659.88
+870,871,871,2010-09-10,Pendente,2011-11-11,42358 Bartillon Lane,Portugal,188.99,PayPal,9500.55
+871,872,872,2018-04-15,Entregue,2018-01-01,79250 Dottie Court,Australia,350.28,Cartão de Crédito,4738.96
+872,873,873,2020-07-21,Entregue,2015-12-02,2 Reinke Drive,Serbia,643.35,Pago na Entrega,2813.01
+873,874,874,2022-11-07,Pendente,2014-03-22,39353 Lakewood Place,China,100.85,Pago na Entrega,365.35
+874,875,875,2021-11-27,Pendente,2013-09-26,947 Montana Place,Russia,853.0,Pago na Entrega,9413.1
+875,876,876,2016-09-10,Enviado ao Cliente,2014-09-23,0600 Hallows Street,China,86.82,PayPal,1256.6
+876,877,877,2020-11-29,Enviado ao Cliente,2017-01-08,8 Macpherson Center,Portugal,375.76,Pago na Entrega,8326.28
+877,878,878,2017-11-24,Pendente,2019-03-18,667 Raven Drive,China,125.48,Cartão de Crédito,1927.42
+878,879,879,2010-08-30,Pendente,2011-01-31,1 Ridgeway Park,United States,482.71,PayPal,9824.83
+879,880,880,2020-02-05,Entregue,2016-04-26,81555 Northview Hill,Canada,82.67,PayPal,417.14
+880,881,881,2017-11-22,Pendente,2017-01-21,3 Ryan Pass,Philippines,979.77,Pago na Entrega,5699.75
+881,882,882,2016-07-15,Enviado ao Cliente,2010-04-17,45 Meadow Ridge Street,Sweden,337.42,PayPal,776.92
+882,883,883,2011-04-28,Pendente,2020-04-06,52 Dwight Road,Sweden,645.93,PayPal,9530.74
+883,884,884,2018-10-07,Em Processamento,2016-12-29,2699 Eastlawn Circle,Poland,626.5,PayPal,1630.7
+884,885,885,2017-05-24,Entregue,2020-07-18,331 Tennessee Place,Zambia,43.22,Pago na Entrega,3959.62
+885,886,886,2011-07-23,Entregue,2018-03-21,808 School Avenue,China,368.75,PayPal,3213.37
+886,887,887,2016-01-05,Enviado ao Cliente,2011-12-27,937 Oakridge Street,United States,972.9,PayPal,1287.9
+887,888,888,2016-11-21,Enviado ao Cliente,2018-11-02,69479 Manufacturers Junction,China,101.76,Pago na Entrega,4764.11
+888,889,889,2013-01-22,Pendente,2014-01-03,15 Vera Point,Poland,91.59,Cartão de Crédito,3254.22
+889,890,890,2014-03-06,Entregue,2013-09-02,4 Brown Parkway,Ghana,578.47,PayPal,915.61
+890,891,891,2015-08-18,Em Processamento,2014-08-16,46815 Schlimgen Court,Luxembourg,198.22,Pago na Entrega,3826.5
+891,892,892,2021-03-17,Entregue,2010-07-30,439 Lillian Parkway,Zimbabwe,536.22,Pago na Entrega,6315.44
+892,893,893,2020-08-04,Entregue,2013-10-12,84266 Crownhardt Place,Mexico,463.22,Cartão de Crédito,2636.54
+893,894,894,2015-12-31,Entregue,2014-05-29,00 Dixon Place,Brazil,371.63,Cartão de Crédito,4151.37
+894,895,895,2010-03-07,Entregue,2010-06-03,9219 Welch Road,Philippines,329.35,Pago na Entrega,4784.2
+895,896,896,2017-02-08,Em Processamento,2021-07-07,705 Maple Wood Point,Macedonia,745.81,Pago na Entrega,5179.31
+896,897,897,2020-09-28,Pendente,2020-05-21,935 Mayer Way,Portugal,985.08,Cartão de Crédito,2092.03
+897,898,898,2020-05-18,Pendente,2015-03-22,9 Barby Hill,Croatia,993.16,Pago na Entrega,6734.26
+898,899,899,2018-06-22,Entregue,2015-11-16,44672 Grim Circle,China,828.18,Pago na Entrega,2817.0
+899,900,900,2016-10-14,Em Processamento,2013-07-27,6175 Paget Lane,Peru,496.67,PayPal,9355.07
+900,901,901,2018-09-15,Em Processamento,2012-04-24,17 Calypso Trail,Greece,211.08,Pago na Entrega,575.6
+901,902,902,2016-07-15,Entregue,2013-12-31,0 Basil Crossing,Philippines,806.49,Pago na Entrega,1463.58
+902,903,903,2019-01-10,Entregue,2013-06-12,79 Park Meadow Way,North Korea,687.19,PayPal,370.92
+903,904,904,2022-06-11,Em Processamento,2018-04-20,32457 Old Shore Street,Bulgaria,539.21,Pago na Entrega,3474.95
+904,905,905,2016-02-08,Enviado ao Cliente,2021-07-27,3 Comanche Avenue,China,913.88,PayPal,5383.17
+905,906,906,2010-06-12,Em Processamento,2018-07-30,750 Fuller Drive,China,628.91,Cartão de Crédito,5515.84
+906,907,907,2019-02-18,Em Processamento,2022-12-30,5858 Merchant Center,Indonesia,95.24,Pago na Entrega,3738.94
+907,908,908,2020-11-07,Em Processamento,2019-10-25,1 Delaware Plaza,Indonesia,89.79,PayPal,6697.32
+908,909,909,2013-09-08,Enviado ao Cliente,2013-12-07,73542 Fieldstone Parkway,Argentina,621.71,PayPal,88.35
+909,910,910,2013-03-28,Pendente,2019-09-19,1770 Atwood Terrace,Indonesia,353.8,Cartão de Crédito,6535.26
+910,911,911,2012-10-05,Pendente,2015-10-08,80228 Harper Crossing,China,217.51,Cartão de Crédito,2165.04
+911,912,912,2016-08-03,Enviado ao Cliente,2016-12-31,4 Fieldstone Way,Brazil,471.83,Pago na Entrega,2212.35
+912,913,913,2021-05-17,Enviado ao Cliente,2016-06-28,210 Ridge Oak Way,Poland,840.92,Pago na Entrega,2992.45
+913,914,914,2012-08-05,Em Processamento,2014-09-17,6 Carey Parkway,China,686.91,PayPal,2531.77
+914,915,915,2016-04-16,Pendente,2013-07-30,97820 Hintze Junction,Haiti,4.77,PayPal,7130.48
+915,916,916,2012-11-29,Entregue,2021-01-31,88 Manley Parkway,Spain,337.48,Pago na Entrega,3214.86
+916,917,917,2021-05-11,Pendente,2022-06-26,918 Macpherson Avenue,China,87.11,Cartão de Crédito,9816.33
+917,918,918,2012-11-04,Em Processamento,2015-04-25,997 Gale Crossing,Indonesia,244.65,Pago na Entrega,2159.87
+918,919,919,2014-06-25,Entregue,2020-12-28,3206 Kim Alley,Indonesia,443.43,PayPal,848.72
+919,920,920,2018-05-01,Em Processamento,2022-02-17,4103 Vera Alley,Brazil,80.17,Pago na Entrega,5092.18
+920,921,921,2015-04-26,Enviado ao Cliente,2012-05-17,3606 Declaration Pass,Mexico,832.04,PayPal,3640.06
+921,922,922,2022-09-07,Enviado ao Cliente,2013-08-18,27 Hudson Center,China,629.77,PayPal,6129.25
+922,923,923,2019-08-27,Enviado ao Cliente,2018-03-05,2334 Thierer Court,China,530.28,Cartão de Crédito,5105.85
+923,924,924,2011-06-27,Enviado ao Cliente,2017-12-01,89050 Crownhardt Way,China,824.97,Pago na Entrega,7846.14
+924,925,925,2010-03-15,Enviado ao Cliente,2017-08-05,1 Rigney Court,Japan,931.12,PayPal,8510.11
+925,926,926,2012-05-15,Enviado ao Cliente,2019-12-17,86 Norway Maple Way,Japan,672.74,Cartão de Crédito,5051.69
+926,927,927,2012-07-13,Enviado ao Cliente,2017-02-04,32 Northfield Plaza,Russia,640.76,Cartão de Crédito,3706.13
+927,928,928,2021-08-15,Pendente,2014-12-05,9779 Schmedeman Lane,Portugal,594.92,Pago na Entrega,6614.9
+928,929,929,2019-10-08,Pendente,2022-12-23,48 4th Avenue,China,193.46,Pago na Entrega,8100.45
+929,930,930,2015-07-17,Pendente,2011-01-08,4 Magdeline Parkway,Serbia,938.7,Cartão de Crédito,3851.17
+930,931,931,2019-03-03,Em Processamento,2010-10-08,61 Reindahl Plaza,China,132.92,PayPal,3474.64
+931,932,932,2020-11-10,Em Processamento,2017-09-28,9 Blaine Park,Greece,991.86,PayPal,8109.65
+932,933,933,2020-05-05,Entregue,2021-06-17,42 Talisman Junction,China,343.0,Cartão de Crédito,3327.79
+933,934,934,2022-06-26,Enviado ao Cliente,2015-02-24,454 Armistice Park,Lithuania,823.35,PayPal,149.15
+934,935,935,2010-11-27,Pendente,2013-10-10,36197 Hoffman Parkway,China,918.11,Cartão de Crédito,771.44
+935,936,936,2014-04-13,Pendente,2019-10-07,64 Blaine Circle,Philippines,426.95,PayPal,5876.39
+936,937,937,2015-04-04,Entregue,2013-03-31,2471 Northland Place,Sweden,582.46,Cartão de Crédito,6850.4
+937,938,938,2015-07-19,Enviado ao Cliente,2013-02-16,17 Melody Parkway,Mauritius,488.62,PayPal,8376.76
+938,939,939,2015-12-30,Pendente,2014-04-15,83 Sundown Crossing,Russia,999.93,Pago na Entrega,7106.25
+939,940,940,2017-02-15,Enviado ao Cliente,2013-10-27,8 Westerfield Road,China,48.29,Pago na Entrega,7120.72
+940,941,941,2022-02-26,Em Processamento,2013-03-01,2 Bellgrove Terrace,China,839.41,PayPal,1910.12
+941,942,942,2019-08-21,Entregue,2012-03-20,98 Anderson Center,China,470.38,Pago na Entrega,8880.61
+942,943,943,2017-06-24,Em Processamento,2010-06-21,8737 Mifflin Point,Netherlands,78.1,Cartão de Crédito,3585.33
+943,944,944,2017-11-14,Enviado ao Cliente,2018-03-27,95585 Hoepker Lane,Philippines,860.86,Cartão de Crédito,2521.01
+944,945,945,2020-04-05,Em Processamento,2015-07-17,01 Randy Place,Argentina,250.95,Pago na Entrega,3864.54
+945,946,946,2019-02-17,Enviado ao Cliente,2012-12-25,926 Summerview Court,China,222.2,Cartão de Crédito,6480.96
+946,947,947,2014-12-23,Enviado ao Cliente,2020-02-20,847 Glendale Hill,China,76.95,Cartão de Crédito,1319.55
+947,948,948,2013-09-19,Em Processamento,2014-12-01,19 School Lane,China,956.78,PayPal,5189.66
+948,949,949,2014-09-01,Pendente,2017-11-09,03 Hoard Terrace,China,474.65,PayPal,2564.85
+949,950,950,2017-05-05,Enviado ao Cliente,2015-07-28,2 International Terrace,Nigeria,727.94,Cartão de Crédito,6256.87
+950,951,951,2018-04-20,Em Processamento,2022-01-12,25088 Dayton Drive,Mongolia,918.61,Pago na Entrega,8072.33
+951,952,952,2021-09-09,Pendente,2022-09-07,200 Stang Hill,Poland,236.03,Pago na Entrega,3243.97
+952,953,953,2019-01-12,Enviado ao Cliente,2010-01-19,62 Troy Way,Kenya,461.25,PayPal,1294.07
+953,954,954,2010-05-08,Pendente,2019-05-05,57826 Haas Trail,Brazil,266.33,Cartão de Crédito,7483.16
+954,955,955,2011-01-13,Pendente,2013-02-20,4 Glacier Hill Drive,Syria,207.01,Pago na Entrega,1764.95
+955,956,956,2016-05-05,Entregue,2019-11-08,0128 Hooker Plaza,China,86.25,Pago na Entrega,1680.49
+956,957,957,2018-01-04,Em Processamento,2018-11-17,52 Quincy Center,Poland,631.62,Cartão de Crédito,1050.14
+957,958,958,2015-08-24,Pendente,2014-11-06,7 Sutteridge Hill,Brazil,857.3,Pago na Entrega,1662.06
+958,959,959,2015-08-13,Entregue,2013-06-16,9141 Utah Parkway,Indonesia,542.43,PayPal,8444.04
+959,960,960,2014-04-01,Enviado ao Cliente,2011-06-09,07 Pierstorff Junction,Czech Republic,963.73,Pago na Entrega,6948.51
+960,961,961,2016-12-29,Pendente,2012-01-24,8959 Lawn Plaza,Palestinian Territory,215.34,Pago na Entrega,375.04
+961,962,962,2017-11-09,Enviado ao Cliente,2017-09-13,28103 Annamark Park,China,134.66,Cartão de Crédito,6714.88
+962,963,963,2015-03-31,Em Processamento,2013-09-02,631 Welch Road,Uganda,476.18,Pago na Entrega,8560.56
+963,964,964,2012-04-04,Pendente,2018-09-06,329 Arrowood Lane,Portugal,268.75,Cartão de Crédito,1472.19
+964,965,965,2016-08-02,Enviado ao Cliente,2017-11-07,0 Cody Point,Germany,844.34,Pago na Entrega,5386.81
+965,966,966,2010-04-06,Entregue,2011-09-07,10 Glacier Hill Way,Indonesia,938.04,Cartão de Crédito,6329.07
+966,967,967,2022-01-03,Entregue,2010-08-21,4678 Hoepker Avenue,Albania,447.32,PayPal,2138.63
+967,968,968,2016-11-19,Enviado ao Cliente,2016-04-18,16612 Northfield Parkway,Philippines,750.06,PayPal,3389.69
+968,969,969,2011-12-22,Enviado ao Cliente,2015-09-19,557 Clemons Plaza,Canada,233.68,PayPal,4703.19
+969,970,970,2010-04-30,Pendente,2012-04-16,0348 Tennessee Crossing,Brazil,501.79,Pago na Entrega,1402.62
+970,971,971,2018-02-06,Entregue,2018-01-31,7 Arizona Point,Indonesia,501.55,Pago na Entrega,5646.74
+971,972,972,2019-09-23,Entregue,2014-11-20,3 Hansons Avenue,China,496.57,PayPal,2286.22
+972,973,973,2021-01-01,Entregue,2020-10-29,2 Warrior Trail,China,758.27,Cartão de Crédito,818.79
+973,974,974,2022-05-15,Enviado ao Cliente,2020-05-15,41 Shoshone Trail,Pakistan,853.03,Cartão de Crédito,9376.04
+974,975,975,2010-03-18,Em Processamento,2010-11-17,7 Northridge Street,China,392.46,PayPal,7242.24
+975,976,976,2010-03-07,Pendente,2022-10-20,5 Del Mar Place,Portugal,339.43,PayPal,1283.08
+976,977,977,2016-02-08,Entregue,2017-10-14,2303 Fulton Parkway,Venezuela,558.75,Cartão de Crédito,7070.24
+977,978,978,2018-05-05,Entregue,2021-08-29,8738 Steensland Trail,Thailand,727.75,Pago na Entrega,8838.01
+978,979,979,2020-05-06,Pendente,2021-01-30,43192 Sheridan Plaza,Canada,103.33,Cartão de Crédito,8516.08
+979,980,980,2018-12-26,Enviado ao Cliente,2010-06-24,9595 Village Hill,Sweden,513.43,PayPal,7560.93
+980,981,981,2015-01-21,Em Processamento,2011-11-06,4546 Merchant Center,Philippines,127.17,Pago na Entrega,6342.45
+981,982,982,2016-12-06,Pendente,2020-04-30,769 Crownhardt Place,Armenia,990.63,PayPal,9538.5
+982,983,983,2022-02-17,Pendente,2015-02-06,08 Marcy Alley,Lithuania,751.31,PayPal,447.74
+983,984,984,2012-05-23,Pendente,2022-10-04,452 Kipling Circle,Macedonia,795.59,Cartão de Crédito,8500.38
+984,985,985,2019-04-10,Em Processamento,2012-10-25,411 Clove Terrace,Philippines,31.25,Pago na Entrega,5322.45
+985,986,986,2011-01-19,Enviado ao Cliente,2013-05-25,731 Little Fleur Court,Vietnam,518.62,PayPal,4452.91
+986,987,987,2019-03-07,Enviado ao Cliente,2019-05-08,164 Morrow Pass,Sweden,558.05,PayPal,7984.5
+987,988,988,2011-05-03,Em Processamento,2020-11-01,2 Mcbride Junction,Brazil,976.37,Cartão de Crédito,8776.67
+988,989,989,2022-01-16,Entregue,2019-06-07,016 Ryan Point,Portugal,249.29,Cartão de Crédito,5543.64
+989,990,990,2014-07-20,Entregue,2019-12-09,59 Ryan Place,Indonesia,879.02,PayPal,9197.24
+990,991,991,2018-05-27,Em Processamento,2021-08-18,04 Continental Junction,China,532.44,PayPal,2970.77
+991,992,992,2020-05-22,Enviado ao Cliente,2018-09-11,04 Coolidge Junction,China,21.47,Cartão de Crédito,7554.4
+992,993,993,2014-09-09,Em Processamento,2012-12-13,5931 Corscot Way,Colombia,832.85,PayPal,59.11
+993,994,994,2014-08-07,Enviado ao Cliente,2012-01-06,1431 Vermont Junction,Peru,185.16,PayPal,4029.53
+994,995,995,2015-08-08,Pendente,2014-08-11,50 Riverside Crossing,Poland,925.36,Cartão de Crédito,4679.85
+995,996,996,2022-02-02,Enviado ao Cliente,2013-05-25,4653 Fulton Court,Dominican Republic,370.32,Pago na Entrega,286.05
+996,997,997,2022-08-21,Em Processamento,2010-03-21,97437 Thackeray Plaza,China,599.57,Pago na Entrega,3543.71
+997,998,998,2013-06-15,Em Processamento,2013-01-18,982 Reindahl Court,Ukraine,305.28,Cartão de Crédito,1664.08
+998,999,999,2010-02-26,Entregue,2019-06-03,0588 Brown Alley,Brazil,816.31,PayPal,1.31
+999,1000,1000,2011-02-04,Pendente,2016-03-10,22 Jackson Plaza,Indonesia,795.93,PayPal,2553.11
